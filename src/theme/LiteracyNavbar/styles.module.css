@@ -1,0 +1,32 @@
+.literacyNavbar {
+  background: var(--ifm-color-primary-darker, #1a1a2e);
+  padding: 0.5rem 0;
+  font-size: 0.85rem;
+}
+
+.navList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+}
+
+.navItem {
+  margin: 0;
+}
+
+.navLink {
+  color: var(--ifm-navbar-link-color, #fff);
+  text-decoration: none;
+  opacity: 0.85;
+  transition: opacity 0.15s;
+}
+
+.navLink:hover {
+  opacity: 1;
+  text-decoration: underline;
+  color: var(--ifm-navbar-link-hover-color, #fff);
+}

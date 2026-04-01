@@ -6,34 +6,38 @@ sidebar_label: Introduction
 
 # Literacy for Kids
 
-Literacy for Kids is a collection of short, open-source curricula that help children ages 8–12 understand the systems that shape everyday life.
+Literacy for Kids is a collection of open-source curricula designed for children ages 8–12. Each curriculum teaches a foundational life literacy that helps children understand the systems shaping modern life.
 
-This hub site introduces the framework and points you to five independent curriculum websites:
+Every day, children interact with complex systems — technology, media, money, decisions, and civic life — but schools rarely explain how those systems work. These curricula provide that understanding through short, discussion-based lessons.
 
-- [🧠 Decision Literacy for Kids](https://zcohen-nerd.github.io/decision_literacy_for_kids/)
-- [💻 Computer Literacy for Kids](https://zcohen-nerd.github.io/computer_literacy_for_kids/)
-- [📰 Media Literacy for Kids](https://zcohen-nerd.github.io/media_literacy_for_kids/)
-- [💰 Financial Literacy for Kids](https://zcohen-nerd.github.io/financial_literacy_for_kids/)
-- [🏛 Civic Literacy for Kids](https://zcohen-nerd.github.io/civic_literacy_for_kids/)
+## The Five Literacies
 
-## What this project is
+This project includes five independent curricula:
 
-Each curriculum is built to be:
+- [🧠 Decision Literacy for Kids](https://literacy-for-kids.github.io/decision_literacy_for_kids/) — reasoning and choices
+- [💻 Computer Literacy for Kids](https://literacy-for-kids.github.io/computer_literacy_for_kids/) — understanding technology
+- [📰 Media Literacy for Kids](https://literacy-for-kids.github.io/media_literacy_for_kids/) — understanding information
+- [💰 Financial Literacy for Kids](https://literacy-for-kids.github.io/financial_literacy_for_kids/) — understanding money
+- [🏛 Civic Literacy for Kids](https://literacy-for-kids.github.io/civic_literacy_for_kids/) — understanding governance
 
-- modular
-- made of short lessons
-- discussion based
-- usable by parents, teachers, homeschool families, and community groups
+## How they can be used
 
-Lessons are usually 10–20 minutes long. The goal is to help children ask good questions, notice patterns, and talk through ideas together.
+The curricula can be:
+
+- taught independently
+- used together
+- taught sequentially
+- integrated into classroom, homeschool, or after-school programs
+
+Each lesson typically takes 10–20 minutes and emphasizes discussion, exploration, and critical thinking rather than lectures.
 
 ## What this site does
 
-This site stays lightweight on purpose. It helps you:
+This hub site stays lightweight on purpose. It helps you:
 
 - understand the Literacy for Kids framework
 - see how the five literacies connect
 - decide which curriculum fits your setting
-- quickly navigate to each curriculum website
+- navigate to each curriculum website
 
-If you want lesson content, activities, or teaching materials, use the curriculum links above or the literacy pages in this site.
+For lesson content, activities, and teaching materials, visit the individual curriculum sites linked above.

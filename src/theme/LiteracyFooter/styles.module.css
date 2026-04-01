@@ -1,0 +1,53 @@
+.literacyFooter {
+  background: var(--ifm-footer-background-color, #1a1a2e);
+  color: var(--ifm-footer-color, #fff);
+  padding: 2rem 0 1rem;
+}
+
+.footerGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.footerColumn {
+  min-width: 0;
+}
+
+.footerHeading {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  color: var(--ifm-footer-title-color, #fff);
+}
+
+.footerList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footerList li {
+  margin-bottom: 0.4rem;
+}
+
+.footerLink {
+  color: var(--ifm-footer-link-color, rgba(255, 255, 255, 0.8));
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.15s;
+}
+
+.footerLink:hover {
+  color: var(--ifm-footer-link-hover-color, #fff);
+  text-decoration: underline;
+}
+
+.footerCopyright {
+  text-align: center;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  font-size: 0.85rem;
+  color: var(--ifm-footer-link-color, rgba(255, 255, 255, 0.6));
+}
