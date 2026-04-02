@@ -1,0 +1,384 @@
+/* ── Shared ── */
+
+.sectionSubtitle {
+  max-width: 640px;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 2rem;
+}
+
+/* ── Start Here ── */
+
+.startHere {
+  padding: 3rem 0;
+  background: var(--ifm-color-emphasis-100);
+}
+
+.subheading {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  color: var(--ifm-color-emphasis-800);
+}
+
+.roleGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+}
+
+.roleCard {
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 12px;
+  padding: 1.25rem;
+  background: var(--ifm-background-surface-color);
+}
+
+.roleCard h4 {
+  margin-bottom: 0.5rem;
+  font-size: 1.05rem;
+}
+
+.roleCard p {
+  margin-bottom: 0.75rem;
+  font-size: 0.93rem;
+  line-height: 1.5;
+}
+
+.roleCardLink {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.topicGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 0.75rem;
+}
+
+.topicCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 1rem 0.75rem;
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 10px;
+  background: var(--ifm-background-surface-color);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.topicCard:hover {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+  text-decoration: none;
+  color: inherit;
+}
+
+.topicIcon {
+  font-size: 1.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.topicLabel {
+  font-weight: 600;
+  font-size: 0.88rem;
+  line-height: 1.3;
+  margin-bottom: 0.2rem;
+}
+
+.topicCurriculum {
+  font-size: 0.78rem;
+  color: var(--ifm-color-primary);
+  font-weight: 500;
+}
+
+/* ── Framework ── */
+
+.framework {
+  padding: 3rem 0;
+}
+
+.frameworkGrid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+}
+
+.frameworkNode {
+  flex: 0 1 160px;
+  text-align: center;
+  padding: 1.25rem 1rem;
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 12px;
+  background: var(--ifm-background-surface-color);
+}
+
+.frameworkNodeIcon {
+  font-size: 1.6rem;
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+.frameworkNodeTitle {
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+}
+
+.frameworkNodeCovers {
+  font-size: 0.8rem;
+  line-height: 1.35;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.connectionsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.connectionCallout {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  padding: 1rem 1.25rem;
+  border-left: 3px solid var(--ifm-color-primary);
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 0 8px 8px 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.connectionPair {
+  flex-shrink: 0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.frameworkNote {
+  max-width: 640px;
+  font-style: italic;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+/* ── Comparison ── */
+
+.comparison {
+  padding: 3rem 0;
+  background: var(--ifm-color-emphasis-100);
+}
+
+.comparisonGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.comparisonCard {
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 16px;
+  padding: 1.5rem;
+  background: var(--ifm-background-surface-color);
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.06);
+  display: flex;
+  flex-direction: column;
+}
+
+.comparisonCard h3 {
+  margin-bottom: 0.5rem;
+  font-size: 1.15rem;
+}
+
+.comparisonTagline {
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+  line-height: 1.45;
+}
+
+.comparisonField {
+  margin-bottom: 0.65rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.comparisonLabel {
+  display: block;
+  font-weight: 700;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ifm-color-emphasis-600);
+  margin-bottom: 0.1rem;
+}
+
+.comparisonCta {
+  margin-top: auto;
+  padding-top: 1rem;
+}
+
+/* ── In Practice ── */
+
+.inPractice {
+  padding: 3rem 0;
+}
+
+.usageGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.usageCard {
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 12px;
+  padding: 1.5rem;
+  background: var(--ifm-background-surface-color);
+}
+
+.usageCard h3 {
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
+}
+
+.usageCard p {
+  font-size: 0.93rem;
+  line-height: 1.55;
+  margin-bottom: 0;
+}
+
+/* ── Design Principles ── */
+
+.designPrinciples {
+  padding: 3rem 0;
+  background: var(--ifm-color-emphasis-100);
+}
+
+.principlesGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.principleCard {
+  padding: 1.25rem;
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 12px;
+  background: var(--ifm-background-surface-color);
+}
+
+.principleTitle {
+  font-weight: 700;
+  font-size: 0.95rem;
+  margin-bottom: 0.35rem;
+}
+
+.principleText {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--ifm-color-emphasis-700);
+  margin: 0;
+}
+
+/* ── FAQ ── */
+
+.faq {
+  padding: 3rem 0;
+}
+
+.faqList {
+  max-width: 720px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.faqItem {
+  border-bottom: 1px solid var(--ifm-toc-border-color);
+  padding: 1rem 0;
+}
+
+.faqList > li:first-child .faqItem {
+  border-top: 1px solid var(--ifm-toc-border-color);
+}
+
+.faqItem summary {
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.faqItem summary::-webkit-details-marker {
+  display: none;
+}
+
+.faqItem summary::before {
+  content: '+';
+  font-size: 1.2rem;
+  font-weight: 700;
+  flex-shrink: 0;
+  width: 1.25rem;
+  text-align: center;
+  color: var(--ifm-color-primary);
+  transition: transform 0.15s;
+}
+
+.faqItem[open] summary::before {
+  content: '−';
+}
+
+.faqAnswer {
+  margin-top: 0.5rem;
+  padding-left: 1.75rem;
+  font-size: 0.93rem;
+  line-height: 1.6;
+  color: var(--ifm-color-emphasis-700);
+}
+
+/* ── Contribute ── */
+
+.contribute {
+  padding: 3rem 0;
+  background: var(--ifm-color-emphasis-100);
+}
+
+.contribute p {
+  max-width: 640px;
+  line-height: 1.6;
+}
+
+.pathwayGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.pathwayCard {
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 12px;
+  padding: 1.25rem;
+  background: var(--ifm-background-surface-color);
+}
+
+.pathwayCard h3 {
+  font-size: 0.95rem;
+  margin-bottom: 0.4rem;
+}
+
+.pathwayCard p {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  margin-bottom: 0;
+  color: var(--ifm-color-emphasis-700);
+}
