@@ -2,75 +2,23 @@ import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
 import LiteracyNavbar from '@theme/LiteracyNavbar';
 import LiteracyFooter from '@theme/LiteracyFooter';
+import ecosystem from 'literacy-site-theme/ecosystem';
 import styles from './styles.module.css';
+
+const {hub, curricula: themeCurricula} = ecosystem;
 
 /* ── Data ── */
 
-const curricula = [
-  {
-    icon: '💻',
-    title: 'Computer Literacy',
-    href: 'https://literacy-for-kids.github.io/computer_literacy_for_kids/',
-    tagline:
-      'Understand how computers and the internet work — and how to use technology responsibly.',
-    bestFor:
-      'Kids curious about how tech works, or who need guidance on online safety.',
-    firstUse:
-      'A family conversation about screen time or staying safe online.',
-    setting: 'Home, classroom, or after-school program',
-    style: 'Exploration and guided conversation',
-  },
-  {
-    icon: '📰',
-    title: 'Media Literacy',
-    href: 'https://literacy-for-kids.github.io/media_literacy_for_kids/',
-    tagline:
-      'Learn how information spreads and how to evaluate what you see and read.',
-    bestFor: 'Kids exposed to news, social media, or advertising.',
-    firstUse:
-      'A classroom chat about ads, clickbait, or "Is this real?"',
-    setting: 'Classroom, homeschool, or library group',
-    style: 'Source analysis and group discussion',
-  },
-  {
-    icon: '🧠',
-    title: 'Decision Literacy',
-    href: 'https://literacy-for-kids.github.io/decision_literacy_for_kids/',
-    tagline:
-      'Build the skills to think clearly, weigh options, and understand consequences.',
-    bestFor:
-      'Kids learning to make independent choices or navigate peer pressure.',
-    firstUse:
-      'A dinner-table conversation about a real choice your child is facing.',
-    setting: 'Anywhere — works well at home or in a group',
-    style: 'Scenario-based reasoning and reflection',
-  },
-  {
-    icon: '💰',
-    title: 'Financial Literacy',
-    href: 'https://literacy-for-kids.github.io/financial_literacy_for_kids/',
-    tagline:
-      'Learn how money works — earning, saving, spending, and understanding value.',
-    bestFor:
-      'Kids starting to handle money or asking about prices and ads.',
-    firstUse: 'A lesson on saving vs. spending around allowance time.',
-    setting: 'Home, classroom, or enrichment program',
-    style: 'Real-world examples and hands-on practice',
-  },
-  {
-    icon: '🏛',
-    title: 'Civic Literacy',
-    href: 'https://literacy-for-kids.github.io/civic_literacy_for_kids/',
-    tagline:
-      'Understand how communities organize, make rules, and share decisions.',
-    bestFor:
-      'Kids interested in fairness, rules, or how groups make decisions.',
-    firstUse:
-      'A group discussion about school rules or community decisions.',
-    setting: 'Classroom, club, or community group',
-    style: 'Role-play and deliberation',
-  },
-];
+const curricula = themeCurricula.map((c) => ({
+  icon: c.icon,
+  title: c.label,
+  href: c.href,
+  tagline: c.tagline,
+  bestFor: c.bestFor,
+  firstUse: c.firstUse,
+  setting: c.setting,
+  style: c.style,
+}));
 
 const rolePathways = [
   {
@@ -93,66 +41,18 @@ const rolePathways = [
   },
 ];
 
-const topicPathways = [
-  {
-    label: 'Technology & online safety',
-    curriculum: 'Computer Literacy',
-    href: 'https://literacy-for-kids.github.io/computer_literacy_for_kids/',
-    icon: '💻',
-  },
-  {
-    label: 'Information & online content',
-    curriculum: 'Media Literacy',
-    href: 'https://literacy-for-kids.github.io/media_literacy_for_kids/',
-    icon: '📰',
-  },
-  {
-    label: 'Choices & judgment',
-    curriculum: 'Decision Literacy',
-    href: 'https://literacy-for-kids.github.io/decision_literacy_for_kids/',
-    icon: '🧠',
-  },
-  {
-    label: 'Money & spending',
-    curriculum: 'Financial Literacy',
-    href: 'https://literacy-for-kids.github.io/financial_literacy_for_kids/',
-    icon: '💰',
-  },
-  {
-    label: 'Community & participation',
-    curriculum: 'Civic Literacy',
-    href: 'https://literacy-for-kids.github.io/civic_literacy_for_kids/',
-    icon: '🏛',
-  },
-];
+const topicPathways = themeCurricula.map((c) => ({
+  label: c.topicLabel,
+  curriculum: c.label,
+  href: c.href,
+  icon: c.icon,
+}));
 
-const frameworkNodes = [
-  {
-    icon: '💻',
-    title: 'Computer',
-    covers: 'How technology and the internet work',
-  },
-  {
-    icon: '📰',
-    title: 'Media',
-    covers: 'How information spreads and how to evaluate it',
-  },
-  {
-    icon: '🧠',
-    title: 'Decision',
-    covers: 'How to think clearly and weigh choices',
-  },
-  {
-    icon: '💰',
-    title: 'Financial',
-    covers: 'How money, value, and trade work',
-  },
-  {
-    icon: '🏛',
-    title: 'Civic',
-    covers: 'How communities organize and make rules',
-  },
-];
+const frameworkNodes = themeCurricula.map((c) => ({
+  icon: c.icon,
+  title: c.label.replace(' Literacy', ''),
+  covers: c.frameworkCovers,
+}));
 
 const connections = [
   {
