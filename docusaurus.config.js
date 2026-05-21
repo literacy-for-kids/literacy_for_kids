@@ -5,6 +5,7 @@ import {createRequire} from 'module';
 
 const require = createRequire(import.meta.url);
 const footerConfig = require('literacy-site-theme/footerConfig');
+const {hub, curricula} = require('literacy-site-theme/ecosystem');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -49,6 +50,18 @@ const config = {
           {to: '/docs/framework', label: 'Framework', position: 'left'},
           {to: '/docs/using-the-curricula', label: 'Using the Curricula', position: 'left'},
           {to: '/docs/open-source', label: 'Open Source', position: 'left'},
+          {
+            type: 'dropdown',
+            label: 'Curricula',
+            position: 'left',
+            items: [
+              {label: 'Hub', href: hub.href},
+              ...curricula.map((c) => ({
+                label: c.label.replace(' Literacy', ''),
+                href: c.href,
+              })),
+            ],
+          },
           {
             href: 'https://github.com/literacy-for-kids',
             label: 'GitHub',
