@@ -119,7 +119,7 @@ const designPrinciples = [
 
 const faqItems = [
   {
-    question: 'Do I need to use all five curricula?',
+    question: 'Do I need to use all the curricula?',
     answer:
       'No. Each curriculum is independent. Start with whichever topic matters most for your learners and add more if you want to. There is no required sequence.',
   },
@@ -136,7 +136,7 @@ const faqItems = [
   {
     question: 'Do I need to be an expert to teach these?',
     answer:
-      'No. The lessons provide the background you need and are designed around discussion, not lecture. Your job is to read the lesson, ask the questions, and listen. You do not need specialized training in any of the five topics.',
+      'No. The lessons provide the background you need and are designed around discussion, not lecture. Your job is to read the lesson, ask the questions, and listen. You do not need specialized training in any of the topics.',
   },
   {
     question: 'Can I adapt the lessons for my setting?',
@@ -251,7 +251,7 @@ export default function Home() {
         {/* ── Framework: How the literacies connect ── */}
         <section className={styles.framework} id="framework">
           <div className="container">
-            <h2>How the Five Literacies Fit Together</h2>
+            <h2>How the Literacies Fit Together</h2>
             <p className={styles.sectionSubtitle}>
               Each curriculum covers one part of how the modern world works.
               Together, they help kids build a connected understanding of the
