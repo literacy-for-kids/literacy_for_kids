@@ -1,39 +1,18 @@
 import React from 'react';
 import styles from './styles.module.css';
+import ecosystem from 'literacy-site-theme/ecosystem';
+
+const {hub, curricula: themeCurricula} = ecosystem;
 
 const footerLinks = [
-  {
-    label: 'Project Hub',
-    href: 'https://literacy-for-kids.github.io/literacy_for_kids/',
-  },
-  {
-    label: 'GitHub',
-    href: 'https://github.com/literacy-for-kids',
-  },
+  {label: 'Project Hub', href: hub.href},
+  {label: 'GitHub', href: 'https://github.com/literacy-for-kids'},
 ];
 
-const curricula = [
-  {
-    label: 'Decision Literacy',
-    href: 'https://literacy-for-kids.github.io/decision_literacy_for_kids/',
-  },
-  {
-    label: 'Computer Literacy',
-    href: 'https://literacy-for-kids.github.io/computer_literacy_for_kids/',
-  },
-  {
-    label: 'Media Literacy',
-    href: 'https://literacy-for-kids.github.io/media_literacy_for_kids/',
-  },
-  {
-    label: 'Financial Literacy',
-    href: 'https://literacy-for-kids.github.io/financial_literacy_for_kids/',
-  },
-  {
-    label: 'Civic Literacy',
-    href: 'https://literacy-for-kids.github.io/civic_literacy_for_kids/',
-  },
-];
+const curricula = themeCurricula.map((c) => ({
+  label: c.label,
+  href: c.href,
+}));
 
 export default function LiteracyFooter() {
   return (

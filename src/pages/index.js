@@ -187,9 +187,10 @@ export default function Home() {
             systems that shape the modern world.
           </p>
           <p style={{fontSize: '1.1rem', maxWidth: '640px'}}>
-            Short, discussion-based lessons on technology, media, decisions,
-            money, and civic life — designed for parents, teachers, and
-            community educators. No special materials required.
+            Short, discussion-based lessons on decisions, technology, media,
+            money, civic life, emotional intelligence, law, environmental
+            systems, and health — designed for parents, teachers, and
+            community educators.
           </p>
           <div style={{display: 'flex', gap: '1rem', flexWrap: 'wrap'}}>
             <a className="button button--secondary button--lg" href="#start-here">
