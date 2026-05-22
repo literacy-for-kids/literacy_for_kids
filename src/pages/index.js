@@ -320,6 +320,10 @@ export default function Home() {
                   <p className={styles.comparisonTagline}>{c.tagline}</p>
 
                   <div className={styles.comparisonField}>
+                    <span className={styles.comparisonLabel}>Age range</span>
+                    Ages 8–12
+                  </div>
+                  <div className={styles.comparisonField}>
                     <span className={styles.comparisonLabel}>Best for</span>
                     {c.bestFor}
                   </div>
