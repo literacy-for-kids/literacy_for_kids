@@ -1,8 +1,10 @@
 # Literacy for Kids
 
+![Curricula](https://img.shields.io/badge/curricula-9-brightgreen)
 ![Content License](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-green)
 ![Code License](https://img.shields.io/badge/code-MIT-blue)
 ![Built with Docusaurus](https://img.shields.io/badge/site-Docusaurus-blue)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange)
 
 Open-source curricula helping children ages 8–12 understand the systems that shape modern life.
 
@@ -32,7 +34,7 @@ Each curriculum is maintained as its own Docusaurus site and GitHub repository. 
 | 🏛️ | Civic Literacy | Communities, cooperation, government, public services, participation, and nonpartisan civic problem solving | <a href="https://literacy-for-kids.github.io/civic_literacy_for_kids/">Website</a> | <a href="https://github.com/literacy-for-kids/civic_literacy_for_kids">Repo</a> |
 | ⚖️ | Legal Literacy | Rules, contracts, rights, precedent, due process, dispute resolution, and the operating rules of society | <a href="https://literacy-for-kids.github.io/legal_literacy_for_kids/">Website</a> | <a href="https://github.com/literacy-for-kids/legal_literacy_for_kids">Repo</a> |
 | ❤️ | Health Literacy | The body as a physiological system: homeostasis, fuel, sleep, immunity, microbiome, and preventive maintenance | <a href="https://literacy-for-kids.github.io/health_literacy_for_kids/">Website</a> | <a href="https://github.com/literacy-for-kids/health_literacy_for_kids">Repo</a> |
-| 🌎 | Environmental Systems Literacy | Earth as a closed-loop physical system: energy flow, matter cycles, resource limits, circular systems, and human infrastructure | <a href="https://literacy-for-kids.github.io/environmental_system_literacy/">Website</a> | <a href="https://github.com/literacy-for-kids/Environmental_system_literacy_for_kids">Repo</a> |
+| 🌎 | Environmental Systems Literacy | Earth as a closed-loop physical system: energy flow, matter cycles, resource limits, circular systems, and human infrastructure | <a href="https://literacy-for-kids.github.io/Environmental_system_literacy_for_kids/">Website</a> | <a href="https://github.com/literacy-for-kids/Environmental_system_literacy_for_kids">Repo</a> |
 | 🤝 | Emotional & Social Literacy | Emotions as telemetry, reactivity, trust, boundaries, conflict, communication, and social systems | <a href="https://literacy-for-kids.github.io/emotional_and_social_literacy_for_kids/">Website</a> | <a href="https://github.com/literacy-for-kids/emotional_and_social_literacy_for_kids">Repo</a> |
 
 ## Shared Design Philosophy
@@ -63,16 +65,65 @@ This hub repository is mainly for:
 Most hub content lives in the Docusaurus website source for this repository. Each individual curriculum keeps its own lesson content, facilitator resources, and curriculum-specific documentation in its own repository.
 
 ```text
-literacy_for_kids/
-  docs/                 # Hub documentation and overview pages
-  src/                  # Hub site components and pages
-  static/               # Static assets
-  README.md             # Project overview for GitHub
+literacy_for_kids/          # Hub site (this repo) — content at root
+  docs/                     # Hub documentation and overview pages
+  src/                      # Hub site components and pages
+  static/                   # Static assets
+  README.md                 # Project overview for GitHub
+
+{curriculum}_literacy_for_kids/  # Per-curriculum repos
+  website/                  # Docusaurus site source
+    docs/                   # Lesson content (Markdown)
+    src/                    # Page components
+    static/img/             # Logos, hero images, favicons
+    docusaurus.config.js
+
+literacy_site_template/     # Shared Docusaurus theme package
+  src/data/ecosystemLinks.js  # Single source of truth for all 9 curricula
+  src/theme/                # Shared navbar and footer components
 ```
+
+The shared theme (`literacy_site_template`) is an npm package consumed by all nine curriculum sites. It exports the ecosystem link data that populates the navbar dropdown and footer on every site. When a curriculum is added, it is registered here and all sites update on their next build.
+
+## Getting Started (for Contributors)
+
+**To run a curriculum site locally:**
+
+```bash
+git clone https://github.com/literacy-for-kids/REPO_NAME.git
+cd REPO_NAME/website
+npm install
+npm start
+```
+
+The site opens at `http://localhost:3000`. For the hub (`literacy_for_kids`), omit the `cd website` step — the Docusaurus config is at the repo root.
+
+**To contribute curriculum content:**
+
+1. Fork the relevant curriculum repo on GitHub
+2. Create a branch: `git checkout -b my-lesson-edit`
+3. Edit the Markdown files under `website/docs/`
+4. Run the site locally to verify your changes
+5. Open a pull request against `main`
+
+Lesson content is plain Markdown. Each week of lessons is one file. The 18-week structure is defined by `website/sidebars.js`.
+
+**To contribute infrastructure or theme changes:**
+
+Changes to `literacy_site_template` affect all nine sites. Update the package, bump the version, then open PRs against each curriculum repo to pick up the new version. Include a note in the PR body about which sites are affected.
 
 ## License
 
 This project uses dual licensing:
 
-- Code (JavaScript, CSS, configuration, build scripts): <a href="./LICENSE-CODE">MIT License</a>
-- Content (Markdown documents under `docs/`): <a href="./LICENSE-CONTENT">CC BY-NC-SA 4.0</a>
+- **Code** (JavaScript, CSS, configuration, build scripts): <a href="./LICENSE-CODE">MIT License</a>
+- **Curriculum content** (Markdown documents under `docs/`): <a href="./LICENSE-CONTENT">CC BY-NC-SA 4.0</a>
+
+The dual license reflects two different kinds of openness: the infrastructure is fully open and reusable for any purpose; the curriculum content is open to read, share, and adapt for non-commercial educational use, with attribution required and derivative works under the same license.
+
+---
+
+## Links
+
+- **Hub site:** https://literacy-for-kids.github.io/literacy_for_kids/
+- **GitHub organization:** https://github.com/literacy-for-kids
