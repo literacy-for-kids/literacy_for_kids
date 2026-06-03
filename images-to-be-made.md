@@ -60,7 +60,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 ### Hub — literacy_for_kids
 
 **Site URL:** https://literacy-for-kids.github.io/literacy_for_kids/
-**Existing images:** None (no `static/img/` directory exists; favicon uses inline emoji data URL)
+**Existing images:** `static/img/og-image.png` ✅ — `static/img/` created; `image: 'img/og-image.png'` wired in themeConfig; favicon uses inline emoji data URL
 **Theme color:** Not yet established
 
 **Missing / needed images:**
@@ -69,9 +69,10 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **File name:** `static/img/og-image.png`
 **Dimensions:** 1200×630 px
-**Used in:** Social media preview (og:image). Add `image: 'img/og-image.png'` to `themeConfig` in `docusaurus.config.js` after creating this file.
+**Used in:** Social media preview (og:image). `image: 'img/og-image.png'` is set in `themeConfig` in `docusaurus.config.js`.
 **Description:** A wide horizontal composition showing all nine curriculum subjects represented as small illustrated icons arranged around a central open book or lit lightbulb. Icons should include: a laptop (Computer), a dollar sign or wallet (Financial), a branching decision tree (Decision), a newspaper or magnifying glass (Media), a government building or ballot box (Civic), a balance scale (Legal), two interlocking puzzle pieces or a heart (Emotional & Social), a globe showing continents (Environmental), and a stethoscope or heart rate line (Health). Clean flat illustration style on a warm off-white or light slate background. The title "Literacy for Kids" appears at top or bottom in a bold, friendly sans-serif typeface.
 **Priority:** High
+**Status:** ✅ Done
 
 ---
 
@@ -87,7 +88,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **Site URL:** https://literacy-for-kids.github.io/computer_literacy_for_kids/
 **Existing images:**
-- `favicon.ico` — **0 bytes (broken, empty placeholder)**
+- `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — 239 bytes, placeholder: green (#2e8555) square with "CL" text
 - `hero-image.png` — 2.3 MB, real image (exists and renders)
 - `roadmap.png` — 1.9 MB, real image (exists and renders)
@@ -101,6 +102,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 **Used in:** Browser tab, bookmarks, address bar
 **Description:** The Computer Literacy logo mark at small sizes — a simple laptop or monitor outline, or the initials "CL" in the curriculum's blue (#4a90d9) on a white or transparent background. Must be legible at 16×16.
 **Priority:** High
+**Status:** ✅ Done
 
 ---
 
@@ -116,7 +118,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **Site URL:** https://literacy-for-kids.github.io/financial_literacy_for_kids/
 **Existing images:**
-- `favicon.ico` — **0 bytes (broken)**
+- `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — 239 bytes, placeholder: green square with "FL" text
 - `hero-image.png` — 2.3 MB, real image
 - `roadmap.png` — 2.6 MB, real image
@@ -130,6 +132,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 **Used in:** Browser tab, bookmarks
 **Description:** Coin or wallet icon at small sizes in the financial curriculum's accent color (recommend gold/olive: #ca8a04 or similar). Simple enough to read at 16×16.
 **Priority:** High
+**Status:** ✅ Done
 
 ---
 
@@ -145,7 +148,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **Site URL:** https://literacy-for-kids.github.io/decision_literacy_for_kids/
 **Existing images:**
-- `favicon.ico` — **0 bytes (broken)**
+- `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — 239 bytes, placeholder: green square with "CL" text (wrong initials)
 - `hero-image.png` — 2.5 MB, real image
 - `roadmap.png` — 2.9 MB, real image
@@ -159,6 +162,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 **Used in:** Browser tab, bookmarks
 **Description:** A small branching decision tree or a simple "Y" fork icon in the decision curriculum's accent color (recommend orange/amber: #ea580c). Legible at 16×16.
 **Priority:** High
+**Status:** ✅ Done
 
 ---
 
@@ -174,7 +178,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **Site URL:** https://literacy-for-kids.github.io/media_literacy_for_kids/
 **Existing images:**
-- `favicon.ico` — **0 bytes (broken)**
+- `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — 239 bytes, placeholder: green square with "CL" text (wrong initials)
 - `hero-image.png` — 2.8 MB, real image
 - `roadmap.png` — 3.2 MB, real image
@@ -188,6 +192,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 **Used in:** Browser tab, bookmarks
 **Description:** A small newspaper fold or magnifying glass icon in the media curriculum's accent color (recommend red-orange: #dc2626 or #e85d04). Legible at 16×16.
 **Priority:** High
+**Status:** ✅ Done
 
 ---
 
@@ -203,7 +208,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **Site URL:** https://literacy-for-kids.github.io/civic_literacy_for_kids/
 **Existing images:**
-- `favicon.ico` — **0 bytes (broken)**
+- `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — 239 bytes, placeholder: green square with "CL" text (wrong initials)
 - `hero-image.png` — 2.5 MB, real image
 - `roadmap.png` — 1.9 MB, real image
@@ -217,6 +222,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 **Used in:** Browser tab, bookmarks
 **Description:** A small government building silhouette or ballot box icon in the civic curriculum's accent color (recommend indigo/navy: #4338ca or #1d4ed8). Legible at 16×16.
 **Priority:** High
+**Status:** ✅ Done
 
 ---
 
@@ -232,7 +238,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **Site URL:** https://literacy-for-kids.github.io/legal_literacy_for_kids/
 **Existing images:**
-- `favicon.ico` — **0 bytes (broken)**
+- `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — 243 bytes, functional but emoji-based: amber (#b45309) square with ⚖️ emoji
 - No `hero-image.png`
 - No `roadmap.png`
@@ -246,6 +252,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 **Used in:** Browser tab, bookmarks
 **Description:** A small balance scale or gavel icon in amber (#b45309). The scale arms should be visibly level to suggest justice and balance. Legible at 16×16.
 **Priority:** High
+**Status:** ✅ Done
 
 ---
 
@@ -277,7 +284,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **Site URL:** https://literacy-for-kids.github.io/emotional_and_social_literacy_for_kids/
 **Existing images:**
-- `favicon.ico` — **0 bytes (broken)**
+- `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — 241 bytes, functional but emoji-based: purple (#7c3aed) square with 🧩 emoji
 - No `hero-image.png`
 - No `roadmap.png`
@@ -291,6 +298,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 **Used in:** Browser tab, bookmarks
 **Description:** A small interlocking puzzle-piece pair or a simple heart outline icon in purple (#7c3aed). Two puzzle pieces fitting together conveys connection and social fit. Legible at 16×16.
 **Priority:** High
+**Status:** ✅ Done
 
 ---
 
@@ -322,7 +330,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **Site URL:** https://literacy-for-kids.github.io/Environmental_system_literacy_for_kids/
 **Existing images:**
-- `favicon.ico` — **0 bytes (broken)**
+- `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — 241 bytes, functional but emoji-based: dark green (#166534) square with 🌍 emoji
 - No `hero-image.png`
 - No `roadmap.png`
@@ -336,6 +344,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 **Used in:** Browser tab, bookmarks
 **Description:** A small globe showing continents or a leaf/tree icon in dark green (#166534). Must read as "Earth / environment" at 16×16.
 **Priority:** High
+**Status:** ✅ Done
 
 ---
 
@@ -367,7 +376,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **Site URL:** https://literacy-for-kids.github.io/health_literacy_for_kids/
 **Existing images:**
-- `favicon.ico` — **0 bytes (broken)**
+- `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — 241 bytes, functional but emoji-based: teal (#0e7490) square with 🩺 emoji
 - No `hero-image.png`
 - No `roadmap.png`
@@ -381,6 +390,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 **Used in:** Browser tab, bookmarks
 **Description:** A small stethoscope silhouette or a heart-rate waveform line in teal (#0e7490). Either icon reads clearly as "health" at small sizes.
 **Priority:** High
+**Status:** ✅ Done
 
 ---
 
@@ -412,19 +422,17 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 | Site | Existing images | Broken images | High priority needed | Medium priority needed | Low priority needed |
 |------|-----------------|---------------|---------------------|----------------------|-------------------|
-| Hub (literacy_for_kids) | 0 | — | og-image.png | logo.svg | — |
-| Computer Literacy | 4 (2 real, 2 placeholder) | favicon.ico (0 bytes) | favicon.ico | logo.svg | — |
-| Financial Literacy | 4 (2 real, 2 placeholder) | favicon.ico (0 bytes) | favicon.ico | logo.svg | — |
-| Decision Literacy | 4 (2 real, 2 placeholder) | favicon.ico (0 bytes) | favicon.ico | logo.svg | — |
-| Media Literacy | 4 (2 real, 2 placeholder) | favicon.ico (0 bytes) | favicon.ico | logo.svg | — |
-| Civic Literacy | 4 (2 real, 2 placeholder) | favicon.ico (0 bytes) | favicon.ico | logo.svg | — |
-| Legal Literacy | 2 (logo + favicon) | favicon.ico (0 bytes) | favicon.ico | logo.svg | hero-image.png, roadmap.png |
-| Emotional & Social | 2 (logo + favicon) | favicon.ico (0 bytes) | favicon.ico | logo.svg | hero-image.png, roadmap.png |
-| Environmental Systems | 2 (logo + favicon) | favicon.ico (0 bytes) | favicon.ico | logo.svg | hero-image.png, roadmap.png |
-| Health Systems | 2 (logo + favicon) | favicon.ico (0 bytes) | favicon.ico | logo.svg | hero-image.png, roadmap.png |
-| **Totals** | **30** | **9 broken favicons** | **10 images** | **10 images** | **8 images** |
+| Hub (literacy_for_kids) | 1 (og-image.png ✅) | — | — | logo.svg | — |
+| Computer Literacy | 4 (2 real, 2 placeholder, favicon ✅) | — | — | logo.svg | — |
+| Financial Literacy | 4 (2 real, 2 placeholder, favicon ✅) | — | — | logo.svg | — |
+| Decision Literacy | 4 (2 real, 2 placeholder, favicon ✅) | — | — | logo.svg | — |
+| Media Literacy | 4 (2 real, 2 placeholder, favicon ✅) | — | — | logo.svg | — |
+| Civic Literacy | 4 (2 real, 2 placeholder, favicon ✅) | — | — | logo.svg | — |
+| Legal Literacy | 2 (logo + favicon ✅) | — | — | logo.svg | hero-image.png, roadmap.png |
+| Emotional & Social | 2 (logo + favicon ✅) | — | — | logo.svg | hero-image.png, roadmap.png |
+| Environmental Systems | 2 (logo + favicon ✅) | — | — | logo.svg | hero-image.png, roadmap.png |
+| Health Systems | 2 (logo + favicon ✅) | — | — | logo.svg | hero-image.png, roadmap.png |
+| **Totals** | **31 total, 0 broken** | **—** | **0** | **10 images** | **8 images** |
 
-**Total images to produce: 28**
-(10 favicon.ico replacements + 10 logo.svg replacements/upgrades + 1 hub og-image.png + 1 hub logo.svg + 4 hero-image.png + 2 roadmap.png for hub)
-
-> Note: The hub `og-image.png` and `logo.svg` require adding the `image:` field to `docusaurus.config.js` and creating the `static/img/` directory, which currently does not exist in that repo.
+**Total images remaining to produce: 18**
+(10 logo.svg replacements/upgrades + 4 hero-image.png + 4 roadmap.png)
