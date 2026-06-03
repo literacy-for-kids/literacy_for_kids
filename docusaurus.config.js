@@ -46,6 +46,10 @@ const config = {
       image: 'img/og-image.png',
       navbar: {
         title: 'Literacy for Kids',
+        logo: {
+          alt: 'Literacy for Kids Logo',
+          src: 'img/logo.svg',
+        },
         items: [
           {to: '/docs/intro', label: 'Introduction', position: 'left'},
           {to: '/docs/framework', label: 'Framework', position: 'left'},
