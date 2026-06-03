@@ -232,7 +232,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 - `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — ✅ replaced with custom logo
 - `hero-image.png` — ✅ 2.5 MB, real image
-- No `roadmap.png`
+- `roadmap.png` — ✅ added
 
 **Image status:**
 
@@ -264,9 +264,10 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **File name:** `website/static/img/roadmap.png`
 **Dimensions:** 1600×900 px (displays at ~800×450)
-**Used in:** Curriculum roadmap section (not currently referenced in code)
+**Used in:** Curriculum roadmap section. HomepageFeatures wired to display it.
 **Description:** A horizontal visual roadmap showing the 18-week Legal Literacy curriculum arc: starting from "What are rules?" through contracts, rights, courts, and dispute resolution. Illustrated as a winding path with milestone markers. Amber accent color scheme. Flat, clear, legible at half-size.
 **Priority:** Low
+**Status:** ✅ Done
 
 ---
 
@@ -277,7 +278,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 - `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — ✅ replaced with custom logo
 - `hero-image.png` — ✅ 2.8 MB, real image
-- No `roadmap.png`
+- `roadmap.png` — ✅ added
 
 **Image status:**
 
@@ -309,9 +310,10 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **File name:** `website/static/img/roadmap.png`
 **Dimensions:** 1600×900 px
-**Used in:** Curriculum roadmap section (not currently referenced in code)
+**Used in:** Curriculum roadmap section. HomepageFeatures wired to display it.
 **Description:** A visual roadmap for the 18-week Emotional & Social Literacy curriculum: from identifying internal emotional signals through understanding social networks, empathy, conflict, and collaboration. Illustrated as an interconnected path or web rather than a straight line, to reflect the non-linear nature of social learning. Purple color scheme.
 **Priority:** Low
+**Status:** ✅ Done
 
 ---
 
@@ -322,7 +324,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 - `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — ✅ replaced with custom logo
 - `hero-image.png` — ✅ 2.9 MB, real image
-- No `roadmap.png`
+- `roadmap.png` — ✅ added
 
 **Image status:**
 
@@ -354,9 +356,10 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **File name:** `website/static/img/roadmap.png`
 **Dimensions:** 1600×900 px
-**Used in:** Curriculum roadmap section (not currently referenced in code)
+**Used in:** Curriculum roadmap section. HomepageFeatures wired to display it.
 **Description:** A visual roadmap of the 18-week Environmental Systems curriculum, from basic Earth systems (water, carbon, energy cycles) through ecosystems, human infrastructure, and waste systems. Illustrated as a layered diagram (like a cross-section of Earth) with milestone labels at each layer. Dark green color scheme.
 **Priority:** Low
+**Status:** ✅ Done
 
 ---
 
@@ -367,7 +370,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 - `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — ✅ replaced with custom logo
 - `hero-image.png` — ✅ 2.8 MB, real image
-- No `roadmap.png`
+- `roadmap.png` — ✅ added
 
 **Image status:**
 
@@ -399,9 +402,10 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 **File name:** `website/static/img/roadmap.png`
 **Dimensions:** 1600×900 px
-**Used in:** Curriculum roadmap section (not currently referenced in code)
+**Used in:** Curriculum roadmap section. HomepageFeatures wired to display it.
 **Description:** A visual roadmap of the 18-week Health Systems curriculum, from basic body system overviews (circulatory, digestive, immune) through feedback loops, measurement, nutrition, and long-term maintenance. Illustrated as a looping path with milestone markers shaped like body system icons. Teal color scheme with warm neutral backgrounds.
 **Priority:** Low
+**Status:** ✅ Done
 
 ---
 
@@ -415,13 +419,10 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 | Decision Literacy | favicon ✅, logo ✅, hero-image, roadmap | — | — | — | — |
 | Media Literacy | favicon ✅, logo ✅, hero-image, roadmap | — | — | — | — |
 | Civic Literacy | favicon ✅, logo ✅, hero-image, roadmap | — | — | — | — |
-| Legal Literacy | favicon ✅, logo ✅, hero-image ✅ | — | — | — | roadmap.png |
-| Emotional & Social | favicon ✅, logo ✅, hero-image ✅ | — | — | — | roadmap.png |
-| Environmental Systems | favicon ✅, logo ✅, hero-image ✅ | — | — | — | roadmap.png |
-| Health Systems | favicon ✅, logo ✅, hero-image ✅ | — | — | — | roadmap.png |
-| **Totals** | **all high/medium done** | **0** | **0** | **0** | **4 roadmap.png** |
+| Legal Literacy | favicon ✅, logo ✅, hero-image ✅, roadmap ✅ | — | — | — | — |
+| Emotional & Social | favicon ✅, logo ✅, hero-image ✅, roadmap ✅ | — | — | — | — |
+| Environmental Systems | favicon ✅, logo ✅, hero-image ✅, roadmap ✅ | — | — | — | — |
+| Health Systems | favicon ✅, logo ✅, hero-image ✅, roadmap ✅ | — | — | — | — |
+| **Totals** | **all images done** | **0** | **0** | **0** | **0** |
 
-**Total images remaining to produce: 4**
-(roadmap.png for Legal, Emotional & Social, Environmental Systems, Health Systems)
-
-> Note: hero-image.png for Legal, Emotional & Social, Environmental Systems, and Health Systems exists in `static/img/` but is not yet wired into each site's `index.js` homepage. The original five curricula (Computer, Financial, Decision, Media, Civic) already reference hero-image.png from their index.js.
+**All images complete.** No remaining production work.
