@@ -24,9 +24,13 @@ jobs:
           node-version: 20
           cache: npm
 
+      - uses: actions/configure-pages@v5
+
       - run: npm ci --legacy-peer-deps
 
       - run: npm run build
+
+      - run: npm run validate:build
 
       - uses: actions/upload-pages-artifact@v3
         with:
