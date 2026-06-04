@@ -1,0 +1,57 @@
+name: Accessibility Issue
+description: Report a barrier to accessing or using the curriculum
+labels: ["accessibility"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Accessibility is important to us. Please describe what you encountered so we can fix it.
+
+  - type: input
+    id: page
+    attributes:
+      label: Which page or curriculum is affected?
+      placeholder: "https://literacy-for-kids.github.io/..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: barrier
+    attributes:
+      label: What accessibility barrier did you encounter?
+      description: Describe what happened. You can include what assistive technology or approach you were using, if applicable.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category (best match)
+      options:
+        - Screen reader / assistive technology
+        - Keyboard navigation
+        - Color contrast or visual
+        - Font size or readability
+        - Image missing alt text
+        - Link text unclear
+        - Page structure / headings
+        - Mobile / touch usability
+        - Print or offline use
+        - Other / not sure
+    validations:
+      required: false
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What would the accessible version look like?
+      description: Describe what you expected or what would work better.
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or additional context
+    validations:
+      required: false

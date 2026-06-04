@@ -1,0 +1,56 @@
+name: Bug Report
+description: Report a broken link, build error, or site problem
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a problem. Please fill in what you can — you don't need to be technical to report a bug.
+
+  - type: input
+    id: page
+    attributes:
+      label: Which page or repository is affected?
+      description: e.g. "the Decision Literacy homepage" or "the hub navigation bar"
+      placeholder: "https://literacy-for-kids.github.io/..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What's the problem?
+      description: Describe what you expected to happen and what actually happened.
+      placeholder: "When I click X, I expected Y but instead Z..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser (if relevant)
+      options:
+        - Chrome / Edge
+        - Firefox
+        - Safari
+        - Mobile browser
+        - Not sure / not relevant
+    validations:
+      required: false
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can someone else see the same problem?
+      placeholder: "1. Go to...\n2. Click...\n3. See..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or links
+      description: Paste any helpful screenshots or URLs here.
+    validations:
+      required: false

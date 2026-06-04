@@ -1,0 +1,65 @@
+name: New Lesson or Activity Suggestion
+description: Suggest a new lesson, activity, example, or discussion prompt
+labels: ["enhancement", "curriculum"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ideas for new content are welcome. These don't need to be fully formed — a rough concept is enough to start a conversation.
+
+  - type: dropdown
+    id: curriculum
+    attributes:
+      label: Which curriculum?
+      options:
+        - Decision Literacy
+        - Computer Literacy
+        - Media Literacy
+        - Financial Literacy
+        - Civic Literacy
+        - Emotional & Social Literacy
+        - Legal Literacy
+        - Environmental Systems Literacy
+        - Health Systems Literacy
+        - Hub site
+        - New curriculum idea
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: Describe the idea
+      description: What should this lesson or activity teach? What would learners do or discuss?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of contribution
+      options:
+        - New full lesson
+        - New activity within an existing lesson
+        - New discussion prompt
+        - New example or analogy
+        - Extension / advanced topic
+        - Not sure
+    validations:
+      required: false
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Why is this valuable for ages 8–12?
+      description: What real-world situation or challenge does it help kids understand?
+    validations:
+      required: false
+
+  - type: textarea
+    id: willing
+    attributes:
+      label: Are you willing to draft it?
+      description: Let us know if you'd like to write a first draft and submit a PR.
+    validations:
+      required: false

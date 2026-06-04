@@ -1,0 +1,48 @@
+name: Technical Cleanup
+description: Suggest a code, tooling, or infrastructure improvement
+labels: ["chore", "technical"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for dependency updates, tooling improvements, workflow fixes, refactoring, or other technical maintenance tasks.
+
+  - type: input
+    id: repository
+    attributes:
+      label: Which repository?
+      placeholder: "e.g. literacy_for_kids or decision_literacy_for_kids"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Dependency update
+        - Build or CI/CD fix
+        - Workflow improvement
+        - Code refactor / cleanup
+        - Documentation improvement
+        - Accessibility tooling
+        - Performance
+        - Other
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the cleanup
+      description: What should change and why?
+    validations:
+      required: true
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: What is the expected impact?
+      description: e.g. "fixes build warning", "reduces bundle size", "makes CI faster"
+    validations:
+      required: false

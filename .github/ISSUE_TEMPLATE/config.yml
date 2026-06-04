@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contributing Guide
+    url: https://literacy-for-kids.github.io/literacy_for_kids/docs/contributor-guide
+    about: Read the full contributor guide before opening an issue
+  - name: Content Style Guide
+    url: https://literacy-for-kids.github.io/literacy_for_kids/docs/content-style-guide
+    about: Standards for writing and editing lesson content

@@ -1,0 +1,76 @@
+name: Curriculum Improvement
+description: Suggest an improvement to a lesson — clarity, examples, activities, or accuracy
+labels: ["curriculum", "enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve the curriculum. These suggestions are especially valuable from parents, teachers, and students who have used the lessons.
+
+  - type: dropdown
+    id: curriculum
+    attributes:
+      label: Which curriculum?
+      options:
+        - Decision Literacy
+        - Computer Literacy
+        - Media Literacy
+        - Financial Literacy
+        - Civic Literacy
+        - Emotional & Social Literacy
+        - Legal Literacy
+        - Environmental Systems Literacy
+        - Health Systems Literacy
+        - Hub site
+        - Not sure
+    validations:
+      required: true
+
+  - type: input
+    id: lesson
+    attributes:
+      label: Which lesson or week? (if applicable)
+      placeholder: e.g. "Week 3" or "intro.md"
+    validations:
+      required: false
+
+  - type: textarea
+    id: issue
+    attributes:
+      label: What would you like to improve?
+      description: Describe the current text, activity, or explanation that could be better.
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What would you suggest instead?
+      description: Share your idea. Even a rough suggestion is helpful.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: age_group
+    attributes:
+      label: Age group context (if relevant)
+      options:
+        - Ages 8–9 (younger end)
+        - Ages 10–12 (older end)
+        - Both
+        - Not sure
+    validations:
+      required: false
+
+  - type: dropdown
+    id: setting
+    attributes:
+      label: Setting (if relevant)
+      options:
+        - Home / family
+        - Classroom
+        - Homeschool
+        - After-school / club / library
+        - Other
+    validations:
+      required: false

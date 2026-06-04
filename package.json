@@ -1,14 +1,38 @@
 {
   "name": "literacy_for_kids",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
+  "description": "Hub site for the Literacy for Kids open-source K–12 curriculum ecosystem",
+  "homepage": "https://literacy-for-kids.github.io/literacy_for_kids/",
+  "keywords": [
+    "education",
+    "k-12",
+    "k-12-education",
+    "curriculum",
+    "open-source-education",
+    "homeschool",
+    "literacy",
+    "docusaurus",
+    "digital-literacy",
+    "systems-thinking"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/literacy-for-kids/literacy_for_kids.git"
+  },
+  "bugs": {
+    "url": "https://github.com/literacy-for-kids/literacy_for_kids/issues"
+  },
   "scripts": {
     "docusaurus": "docusaurus",
+    "dev": "docusaurus start",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
-    "validate:build": "node scripts/validate-build.mjs"
+    "validate:build": "node scripts/validate-build.mjs",
+    "check": "npm run build && npm run validate:build"
   },
   "dependencies": {
     "@docusaurus/core": "3.10.1",
