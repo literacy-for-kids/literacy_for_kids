@@ -33,6 +33,9 @@ jobs:
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
+            --timeout 30
+            --max-retries 3
+            --retry-wait-time 5
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
             ./build
