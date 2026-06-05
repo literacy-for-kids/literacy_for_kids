@@ -20,6 +20,18 @@ const sidebars = {
       collapsed: false,
       items: [
         'using-the-curricula',
+        'implementation-pathways',
+        'curriculum-adoption-checklist',
+        'ecosystem-skills-overview',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'For Facilitators',
+      collapsed: false,
+      items: [
+        'privacy-and-student-data',
+        'interactive-activity-specs',
       ],
     },
     {
