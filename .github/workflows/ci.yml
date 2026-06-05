@@ -30,13 +30,20 @@ jobs:
           cache: npm
       - run: npm ci --legacy-peer-deps
       - run: npm run build
+      - name: Mirror build under site base path for lychee
+        run: |
+          rm -rf ./.lychee-root
+          mkdir -p ./.lychee-root/literacy_for_kids
+          cp -R ./build/. ./.lychee-root/literacy_for_kids/
+          rm -f ./.lychee-root/literacy_for_kids/404.html
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
+            --root-dir ./.lychee-root
             --timeout 30
             --max-retries 3
             --retry-wait-time 5
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
-            ./build
-          fail-on-error: true
+            './.lychee-root/literacy_for_kids/**/*.html'
+          fail: true
