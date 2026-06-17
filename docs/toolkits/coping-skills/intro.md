@@ -9,6 +9,8 @@ slug: /toolkits/coping-skills
 
 Short, practical lessons that help kids notice stress signals, pause before reacting, calm their body, check their thoughts, ask for help, and recover after hard moments.
 
+These tools are meant to be practiced during ordinary moments, not saved only for emergencies.
+
 The other Literacy for Kids curricula explain the systems around us — technology, media, money, rules, communities, the planet, the body. This toolkit looks at one more system: **the one inside each of us.** Every person has feelings, body clues, thoughts, and impulses that work together as a feedback system. Coping skills help kids notice those signals and choose a useful next action instead of reacting automatically.
 
 ## What coping skills are
