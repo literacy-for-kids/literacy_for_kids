@@ -62,3 +62,9 @@ These literacies reinforce each other:
 While they can be taught independently, together they form a powerful framework that helps children understand the overlapping systems of modern life — technology, information, decision making, economics, governance, emotions, law, environment, and health.
 
 If you want a full sequence, follow the progression above. If you need a single starting point, choose the literacy that best matches your learners and setting.
+
+## A cross-cutting layer: coping skills
+
+Every literacy above involves a system *outside* the child. But each one also involves a system *inside* the child. Making a decision under pressure, seeing a scary post, disagreeing about a rule, waiting to buy something, or feeling worried about the planet all bring up emotion — and emotion shapes what a child does next.
+
+That is why the [Coping Skills Toolkit](./toolkits/coping-skills/intro.md) sits across the whole framework rather than inside any single curriculum. It treats the child's own stress response as one more system worth understanding: feelings and body clues are signals, a pause creates choice, and a useful next action can be chosen on purpose. Decision-making, media use, social conflict, rules, money, health, and environmental concern all go better when a learner can notice a signal and respond rather than react. The toolkit is a shared utility the other literacies draw on whenever real feelings show up in real situations.

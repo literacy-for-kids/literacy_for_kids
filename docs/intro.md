@@ -24,6 +24,10 @@ This project includes nine independent curricula:
 - [🌍 Environmental Systems Literacy](https://literacy-for-kids.github.io/Environmental_system_literacy_for_kids/) — understanding Earth systems
 - [🩺 Health Systems Literacy for Kids](https://literacy-for-kids.github.io/health_literacy_for_kids/) — understanding the body
 
+## Shared toolkits
+
+Alongside the nine curricula, the project includes shared toolkits — short, practical skill sets that support every literacy rather than belonging to just one. The first is the [Coping Skills Toolkit](./toolkits/coping-skills/intro.md): everyday tools that help kids notice stress signals, pause before reacting, calm their body, check their thoughts, ask for help, and recover after hard moments. Because every literacy involves real feelings in real situations, these skills strengthen the work across the whole ecosystem.
+
 ## How they can be used
 
 The curricula can be:

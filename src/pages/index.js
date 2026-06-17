@@ -69,6 +69,18 @@ const connections = [
   },
 ];
 
+const sharedToolkits = [
+  {
+    icon: '🧰',
+    title: 'Coping Skills Toolkit',
+    href: '/docs/toolkits/coping-skills',
+    tagline:
+      'Short lessons that help kids notice stress signals, pause before reacting, calm their body, check their thoughts, ask for help, and recover after hard moments.',
+    pairsWith:
+      'Pairs especially well with Emotional & Social, Decision, Health Systems, Media, Civic, and Legal Literacy.',
+  },
+];
+
 const usageExamples = [
   {
     icon: '🏠',
@@ -299,6 +311,44 @@ export default function Home() {
             <Link className="button button--secondary" to="/docs/framework">
               Read the full framework
             </Link>
+          </div>
+        </section>
+
+        {/* ── Shared Toolkits: cross-curriculum life skills ── */}
+        <section className={styles.inPractice} id="toolkits">
+          <div className="container">
+            <h2>Shared Toolkits</h2>
+            <p className={styles.sectionSubtitle}>
+              Some skills support every curriculum. Shared toolkits are short,
+              practical add-ons that work alongside any topic — at home, in a
+              classroom, or in a club.
+            </p>
+            <p style={{maxWidth: '720px', marginBottom: '2rem'}}>
+              Decision-making, media use, social conflict, rules, money, health,
+              and environmental worry all involve emotion. The Coping Skills
+              Toolkit gives kids everyday tools for noticing stress signals,
+              pausing before reacting, and recovering after hard moments —
+              supporting the work in every literacy. Kids are learning how
+              systems work, and their own stress response is one of the systems
+              they need to understand.
+            </p>
+
+            <div className={styles.usageGrid}>
+              {sharedToolkits.map((t) => (
+                <div className={styles.usageCard} key={t.title}>
+                  <h3>
+                    <span aria-hidden="true">{t.icon}</span> {t.title}
+                  </h3>
+                  <p>{t.tagline}</p>
+                  <p style={{fontStyle: 'italic', opacity: 0.85}}>
+                    {t.pairsWith}
+                  </p>
+                  <Link className="button button--primary" to={t.href}>
+                    Open the toolkit →
+                  </Link>
+                </div>
+              ))}
+            </div>
           </div>
         </section>
 

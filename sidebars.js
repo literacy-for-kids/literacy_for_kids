@@ -53,6 +53,31 @@ const sidebars = {
         'open-source',
       ],
     },
+    {
+      type: 'category',
+      label: 'Shared Toolkits',
+      collapsed: false,
+      items: [
+        {
+          type: 'category',
+          label: 'Coping Skills Toolkit',
+          collapsed: true,
+          link: {type: 'doc', id: 'toolkits/coping-skills/coping-skills-intro'},
+          items: [
+            'toolkits/coping-skills/coping-skills-intro',
+            'toolkits/coping-skills/coping-lesson-01-system-signals',
+            'toolkits/coping-skills/coping-lesson-02-pause-button',
+            'toolkits/coping-skills/coping-lesson-03-grounding',
+            'toolkits/coping-skills/coping-lesson-04-breathing',
+            'toolkits/coping-skills/coping-lesson-05-body-reset',
+            'toolkits/coping-skills/coping-lesson-06-thought-bugs',
+            'toolkits/coping-skills/coping-lesson-07-asking-for-help',
+            'toolkits/coping-skills/coping-lesson-08-coping-menu',
+            'toolkits/coping-skills/coping-printables',
+          ],
+        },
+      ],
+    },
   ],
 };
 
