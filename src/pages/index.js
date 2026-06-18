@@ -88,6 +88,15 @@ const sharedToolkits = [
     pairsWith:
       'Pairs especially well with Civic, Legal, Emotional & Social, Decision, Media, Computer, and Financial Literacy.',
   },
+  {
+    icon: '🛠️',
+    title: 'Problem Solving Toolkit',
+    href: '/docs/toolkits/problem-solving',
+    tagline:
+      'Short lessons that help kids define problems clearly, separate facts from guesses, break big problems into smaller parts, try one safe step, observe what happened, and adjust.',
+    pairsWith:
+      'Pairs especially well with Computer, Decision, Environmental Systems, Civic, Health Systems, Emotional & Social, Legal, Media, and Financial Literacy.',
+  },
 ];
 
 const usageExamples = [

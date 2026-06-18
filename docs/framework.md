@@ -78,3 +78,11 @@ That is why the [Coping Skills Toolkit](./toolkits/coping-skills/intro.md) sits 
 There is a second system that runs through every literacy: the one *between* people. Kids explain decisions, ask about rules, talk through money choices, debug problems, discuss media, disagree in civic life, repair social mistakes, describe body clues, and collaborate on environmental systems. All of that is communication.
 
 The [Communication Toolkit](./toolkits/communication/intro.md) sits across the framework the same way the coping toolkit does. Its core idea is that communication reduces guessing: listening is active, questions are tools, "I don't understand yet" is a strong move, disagreement is allowed, understanding is not the same as agreeing, and repair is part of the process. It teaches kids to listen, ask clarifying questions, explain their thinking, disagree without attacking, ask for help clearly, give and receive feedback, and repair misunderstandings. Like coping skills, it is a shared life-skill layer the other literacies draw on whenever people need to understand each other and be understood.
+
+## A cross-cutting layer: problem solving skills
+
+There is a third shared layer: what kids do when something feels stuck, confusing, broken, or too big. Every literacy is full of problems — decisions under uncertainty, computer bugs, confusing media claims, money tradeoffs, civic disagreements, rule confusion, friendship friction, environmental systems, and body patterns.
+
+The [Problem Solving Toolkit](./toolkits/problem-solving/intro.md) gives kids a repeatable loop they can use anywhere: define the problem, separate facts from guesses, break it into parts, choose one safe step, observe what happened, and adjust. Its message is practical rather than "be a genius" — problems get easier when you name them clearly and try a useful next step.
+
+The three shared toolkits work together. Coping helps kids stay regulated enough to think. Communication helps them ask, explain, listen, and get help. Problem solving helps them choose a useful next step.

@@ -41,7 +41,7 @@ A child can understand how media or money or rules work and still get stuck when
 
 ## Current toolkits
 
-These two toolkits are the first reusable modules in the shared layer.
+These toolkits are the first reusable modules in the shared layer.
 
 ### 🧰 Coping Skills Toolkit
 
@@ -74,11 +74,26 @@ Core ideas:
 
 [Open the Communication Toolkit](./communication/intro.md)
 
+### 🛠️ Problem Solving Toolkit
+
+Short lessons that help kids define problems clearly, separate facts from guesses, break big problems into smaller parts, brainstorm options, try one safe step, observe what happened, and adjust.
+
+Core ideas:
+
+- Naming the problem makes it smaller.
+- Facts, guesses, and missing information are different.
+- Big problems can be broken into parts.
+- Small safe tests teach you things.
+- Results are information.
+- Adjusting is part of solving.
+- Asking for help can be part of the plan.
+
+[Open the Problem Solving Toolkit](./problem-solving/intro.md)
+
 ## Planned toolkits
 
 More modules are planned for the shared layer. These are not built yet.
 
-- **Problem Solving Toolkit** — planned. Helps kids define problems, separate facts from guesses, break big problems into smaller parts, try safe experiments, observe what happens, and adjust.
 - **Learning How to Learn Toolkit** — planned. Helps kids understand practice, memory, forgetting, mistakes, feedback, and study strategies.
 - **Executive Function Toolkit** — planned. Helps kids plan, start, organize, prioritize, estimate time, manage distractions, and recover after interruptions.
 
