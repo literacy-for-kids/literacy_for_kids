@@ -79,6 +79,15 @@ const sharedToolkits = [
     pairsWith:
       'Pairs especially well with Emotional & Social, Decision, Health Systems, Media, Civic, and Legal Literacy.',
   },
+  {
+    icon: '💬',
+    title: 'Communication Toolkit',
+    href: '/docs/toolkits/communication',
+    tagline:
+      'Short lessons that help kids listen actively, ask clearer questions, explain their thinking, disagree respectfully, ask for help, use feedback, and repair misunderstandings.',
+    pairsWith:
+      'Pairs especially well with Civic, Legal, Emotional & Social, Decision, Media, Computer, and Financial Literacy.',
+  },
 ];
 
 const usageExamples = [
@@ -325,12 +334,15 @@ export default function Home() {
             </p>
             <p style={{maxWidth: '720px', marginBottom: '2rem'}}>
               Decision-making, media use, social conflict, rules, money, health,
-              and environmental worry all involve emotion. The Coping Skills
-              Toolkit gives kids everyday tools for noticing stress signals,
-              pausing before reacting, and recovering after hard moments —
-              supporting the work in every literacy. Kids are learning how
-              systems work, and their own stress response is one of the systems
-              they need to understand.
+              and environmental worry all involve emotion — and all of them run
+              on communication. The Coping Skills Toolkit gives kids everyday
+              tools for noticing stress signals, pausing before reacting, and
+              recovering after hard moments. The Communication Toolkit helps kids
+              listen, ask, explain, disagree, get help, use feedback, and repair
+              misunderstandings. Both support the work in every literacy: kids
+              are learning how systems work, and their own stress response and
+              the way they understand each other are two of the systems they use
+              every day.
             </p>
 
             <div className={styles.usageGrid}>
