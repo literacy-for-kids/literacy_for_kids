@@ -361,6 +361,12 @@ export default function Home() {
                 </div>
               ))}
             </div>
+
+            <div style={{marginTop: '2rem'}}>
+              <Link className="button button--secondary" to="/docs/toolkits">
+                Explore all shared toolkits →
+              </Link>
+            </div>
           </div>
         </section>
 

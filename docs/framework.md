@@ -63,6 +63,10 @@ While they can be taught independently, together they form a powerful framework 
 
 If you want a full sequence, follow the progression above. If you need a single starting point, choose the literacy that best matches your learners and setting.
 
+## Cross-cutting skill layers
+
+Alongside the nine domain literacies, Literacy for Kids includes short, reusable life-skill modules that support every curriculum. For a single overview of these cross-cutting skill modules, see the [Shared Toolkits](./toolkits/intro.md) page. The two built so far are described below.
+
 ## A cross-cutting layer: coping skills
 
 Every literacy above involves a system *outside* the child. But each one also involves a system *inside* the child. Making a decision under pressure, seeing a scary post, disagreeing about a rule, waiting to buy something, or feeling worried about the planet all bring up emotion — and emotion shapes what a child does next.

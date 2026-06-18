@@ -57,7 +57,9 @@ const sidebars = {
       type: 'category',
       label: 'Shared Toolkits',
       collapsed: false,
+      link: {type: 'doc', id: 'toolkits/shared-toolkits-intro'},
       items: [
+        'toolkits/shared-toolkits-intro',
         {
           type: 'category',
           label: 'Coping Skills Toolkit',
