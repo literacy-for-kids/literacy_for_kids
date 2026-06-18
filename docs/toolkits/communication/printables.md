@@ -119,7 +119,7 @@ These cards teach everyday communication and self-management skills. They are no
 > | Explaining tools | they need your *why* |
 > | Disagreement tools | you see it differently |
 > | Help-request tools | you're stuck |
-> | Feedback tools | you're trading "glow & grow" |
+> | Feedback tools | you're sharing what works and what could improve |
 > | Repair tools | a message went wrong |
 
 ---
