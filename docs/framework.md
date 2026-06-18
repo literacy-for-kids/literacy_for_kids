@@ -65,7 +65,7 @@ If you want a full sequence, follow the progression above. If you need a single 
 
 ## Cross-cutting skill layers
 
-Alongside the nine domain literacies, Literacy for Kids includes short, reusable life-skill modules that support every curriculum. For a single overview of these cross-cutting skill modules, see the [Shared Toolkits](./toolkits/intro.md) page. The two built so far are described below.
+Alongside the nine domain literacies, Literacy for Kids includes short, reusable life-skill modules that support every curriculum. For a single overview of these cross-cutting skill modules, see the [Shared Toolkits](./toolkits/intro.md) page. The currently built shared toolkits are described below.
 
 ## A cross-cutting layer: coping skills
 

@@ -108,4 +108,38 @@ These cards teach everyday problem-solving skills. They are not therapy, legal a
 
 ---
 
+## Quick Loop Card
+
+> **WHEN I FEEL STUCK**
+>
+> 1. Name it.
+> 2. Check what I know.
+> 3. Break it down.
+> 4. Think of options.
+> 5. Try one safe step.
+> 6. Notice what happened.
+> 7. Adjust.
+>
+> *You do not have to solve the whole thing at once.*
+
+---
+
+## Ask for Help Card
+
+> **SOME PROBLEMS ARE TOO BIG TO SOLVE ALONE**
+>
+> Ask a trusted adult for help if the problem involves:
+>
+> - danger or safety
+> - serious distress
+> - bullying
+> - unsafe adults
+> - health concerns
+> - legal trouble
+> - anything that feels too big or scary
+>
+> *Asking for help can be the safest problem-solving step.*
+
+---
+
 These cards pair with the eight toolkit lessons, starting with [What Problem Are We Solving?](./lesson-01-what-problem-are-we-solving.md).
