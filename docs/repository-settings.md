@@ -46,7 +46,7 @@ Set these under **Settings › General › Website** for each repository.
 
 | Repository | Homepage URL |
 |---|---|
-| `literacy_for_kids` | `https://literacy-for-kids.github.io/literacy_for_kids/` |
+| `literacy_for_kids` | `https://www.literacy-for-kids.com/` |
 | `decision_literacy_for_kids` | `https://literacy-for-kids.github.io/decision_literacy_for_kids/` |
 | `computer_literacy_for_kids` | `https://literacy-for-kids.github.io/computer_literacy_for_kids/` |
 | `media_literacy_for_kids` | `https://literacy-for-kids.github.io/media_literacy_for_kids/` |

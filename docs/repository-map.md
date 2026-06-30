@@ -14,7 +14,7 @@ All Literacy for Kids repositories are hosted under the [`literacy-for-kids` Git
 
 | Repository | Live Site | Curriculum Focus | Docusaurus root |
 |---|---|---|---|
-| [`literacy_for_kids`](https://github.com/literacy-for-kids/literacy_for_kids) | [Hub](https://literacy-for-kids.github.io/literacy_for_kids/) | Project hub — links to all curricula | repo root |
+| [`literacy_for_kids`](https://github.com/literacy-for-kids/literacy_for_kids) | [Hub](https://www.literacy-for-kids.com/) | Project hub — links to all curricula | repo root |
 | [`decision_literacy_for_kids`](https://github.com/literacy-for-kids/decision_literacy_for_kids) | [Site](https://literacy-for-kids.github.io/decision_literacy_for_kids/) | Decision-making, probability, biases | `/website` |
 | [`computer_literacy_for_kids`](https://github.com/literacy-for-kids/computer_literacy_for_kids) | [Site](https://literacy-for-kids.github.io/computer_literacy_for_kids/) | Computers, internet, coding, AI | `/website` |
 | [`media_literacy_for_kids`](https://github.com/literacy-for-kids/media_literacy_for_kids) | [Site](https://literacy-for-kids.github.io/media_literacy_for_kids/) | Media construction, verification, algorithms | `/website` |

@@ -59,7 +59,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 ### Hub — literacy_for_kids
 
-**Site URL:** https://literacy-for-kids.github.io/literacy_for_kids/
+**Site URL:** https://www.literacy-for-kids.com/
 **Existing images:** `static/img/og-image.png` ✅, `static/img/logo.svg` ✅ — navbar `logo:` field wired in config
 **Theme color:** Not yet established
 

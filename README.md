@@ -9,7 +9,7 @@
 Open-source curricula helping children ages 8–12 understand the systems that shape modern life.
 
 🌐 **View the project hub:**  
-https://literacy-for-kids.github.io/literacy_for_kids/
+https://www.literacy-for-kids.com/
 
 ---
 
@@ -125,5 +125,5 @@ The dual license reflects two different kinds of openness: the infrastructure is
 
 ## Links
 
-- **Hub site:** https://literacy-for-kids.github.io/literacy_for_kids/
+- **Hub site:** https://www.literacy-for-kids.com/
 - **GitHub organization:** https://github.com/literacy-for-kids

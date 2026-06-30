@@ -8,16 +8,16 @@ Thank you for your interest in contributing. Literacy for Kids is a collection o
 
 Read the relevant style guides:
 
-- **[Contributor Guide](https://literacy-for-kids.github.io/literacy_for_kids/docs/contributor-guide)** — overview of the contribution process
-- **[Content Style Guide](https://literacy-for-kids.github.io/literacy_for_kids/docs/content-style-guide)** — standards for writing lessons
-- **[Technical Style Guide](https://literacy-for-kids.github.io/literacy_for_kids/docs/technical-style-guide)** — standards for code and deployment
+- **[Contributor Guide](https://www.literacy-for-kids.com/docs/contributor-guide)** — overview of the contribution process
+- **[Content Style Guide](https://www.literacy-for-kids.com/docs/content-style-guide)** — standards for writing lessons
+- **[Technical Style Guide](https://www.literacy-for-kids.com/docs/technical-style-guide)** — standards for code and deployment
 
 ---
 
 ## Quick Start
 
 ### For curriculum content changes:
-1. Fork the relevant curriculum repository (see [Repository Map](https://literacy-for-kids.github.io/literacy_for_kids/docs/repository-map))
+1. Fork the relevant curriculum repository (see [Repository Map](https://www.literacy-for-kids.com/docs/repository-map))
 2. Clone and open a branch
 3. Edit Markdown files in `website/docs/`
 4. Open a pull request

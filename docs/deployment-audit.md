@@ -22,15 +22,16 @@ Package manager: npm (lockfile version 3)
 
 | Setting | Value |
 |---------|-------|
-| `url` | `https://literacy-for-kids.github.io` |
-| `baseUrl` | `/literacy_for_kids/` |
+| `url` | `https://www.literacy-for-kids.com` |
+| `baseUrl` | `/` |
 | `trailingSlash` | `true` |
+| Custom domain | `www.literacy-for-kids.com` (via `static/CNAME`) |
 | Deployment source | GitHub Actions (must be set in repo Settings › Pages) |
 | Artifact path | `build/` |
 
 ### Why `trailingSlash: true`
 
-GitHub Pages serves static files. Without trailing slashes, navigating to `/literacy_for_kids/docs/intro` returns a 404 because GitHub Pages looks for `docs/intro.html`, not `docs/intro/index.html`. Docusaurus with `trailingSlash: true` generates `docs/intro/index.html`, which GitHub Pages serves correctly at `/docs/intro/`.
+GitHub Pages serves static files. Without trailing slashes, navigating to `/docs/intro` returns a 404 because GitHub Pages looks for `docs/intro.html`, not `docs/intro/index.html`. Docusaurus with `trailingSlash: true` generates `docs/intro/index.html`, which GitHub Pages serves correctly at `/docs/intro/`.
 
 ---
 

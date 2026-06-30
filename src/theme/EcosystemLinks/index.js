@@ -5,7 +5,7 @@ const ecosystemLinks = [
   {
     label: 'Literacy for Kids',
     description: 'Project Hub',
-    href: 'https://literacy-for-kids.github.io/literacy_for_kids/',
+    href: 'https://www.literacy-for-kids.com/',
   },
   {
     label: 'Decision Literacy',

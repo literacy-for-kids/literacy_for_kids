@@ -12,8 +12,8 @@ const config = {
   title: 'Literacy for Kids',
   tagline:
     'Open-source curricula helping children ages 8–12 understand the systems that shape the modern world.',
-  url: 'https://literacy-for-kids.github.io',
-  baseUrl: '/literacy_for_kids/',
+  url: 'https://www.literacy-for-kids.com',
+  baseUrl: '/',
   organizationName: 'literacy-for-kids',
   projectName: 'literacy_for_kids',
   trailingSlash: true,
