@@ -43,15 +43,15 @@ Pick the one that fits your learners best right now. Any curriculum is a good st
 
 | | Curriculum | Good if your learners are... |
 |---|---|---|
-| 🧠 | [Decision Literacy](https://literacy-for-kids.github.io/decision_literacy_for_kids/) | Facing choices, learning to reason, or interested in how their own thinking works |
-| 💻 | [Computer Literacy](https://literacy-for-kids.github.io/computer_literacy_for_kids/) | Curious about technology, starting to use devices independently |
-| 📰 | [Media Literacy](https://literacy-for-kids.github.io/media_literacy_for_kids/) | Exposed to social media, news, or advertising; asking "is this real?" |
-| 💰 | [Financial Literacy](https://literacy-for-kids.github.io/financial_literacy_for_kids/) | Starting to handle money, asking about prices, or earning allowance |
-| 🏛️ | [Civic Literacy](https://literacy-for-kids.github.io/civic_literacy_for_kids/) | Interested in fairness, rules, or how communities make decisions |
-| 🧩 | [Emotional & Social Literacy](https://literacy-for-kids.github.io/emotional_and_social_literacy_for_kids/) | Working through friendships, conflict, or understanding their own emotions |
-| ⚖️ | [Legal Literacy](https://literacy-for-kids.github.io/legal_literacy_for_kids/) | Curious about rules, rights, or how agreements work |
-| 🌍 | [Environmental Systems Literacy](https://literacy-for-kids.github.io/Environmental_system_literacy_for_kids/) | Interested in science, nature, sustainability, or how Earth systems work |
-| 🩺 | [Health Systems Literacy](https://literacy-for-kids.github.io/health_literacy_for_kids/) | Curious about how their body works or starting to make health decisions |
+| 🧠 | [Decision Literacy](https://decision.literacy-for-kids.com/) | Facing choices, learning to reason, or interested in how their own thinking works |
+| 💻 | [Computer Literacy](https://computer.literacy-for-kids.com/) | Curious about technology, starting to use devices independently |
+| 📰 | [Media Literacy](https://media.literacy-for-kids.com/) | Exposed to social media, news, or advertising; asking "is this real?" |
+| 💰 | [Financial Literacy](https://financial.literacy-for-kids.com/) | Starting to handle money, asking about prices, or earning allowance |
+| 🏛️ | [Civic Literacy](https://civic.literacy-for-kids.com/) | Interested in fairness, rules, or how communities make decisions |
+| 🧩 | [Emotional & Social Literacy](https://emotional.literacy-for-kids.com/) | Working through friendships, conflict, or understanding their own emotions |
+| ⚖️ | [Legal Literacy](https://legal.literacy-for-kids.com/) | Curious about rules, rights, or how agreements work |
+| 🌍 | [Environmental Systems Literacy](https://environmental.literacy-for-kids.com/) | Interested in science, nature, sustainability, or how Earth systems work |
+| 🩺 | [Health Systems Literacy](https://health.literacy-for-kids.com/) | Curious about how their body works or starting to make health decisions |
 
 **My first curriculum:** ___________
 

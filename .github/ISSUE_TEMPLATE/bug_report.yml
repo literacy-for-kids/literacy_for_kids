@@ -12,7 +12,7 @@ body:
     attributes:
       label: Which page or repository is affected?
       description: e.g. "the Decision Literacy homepage" or "the hub navigation bar"
-      placeholder: "https://literacy-for-kids.github.io/..."
+      placeholder: "https://www.literacy-for-kids.com/..."
     validations:
       required: true
 

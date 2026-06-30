@@ -87,7 +87,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 ### Computer Literacy — computer_literacy_for_kids
 
-**Site URL:** https://literacy-for-kids.github.io/computer_literacy_for_kids/
+**Site URL:** https://computer.literacy-for-kids.com/
 **Existing images:**
 - `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — ✅ replaced with custom logo
@@ -115,7 +115,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 ### Financial Literacy — financial_literacy_for_kids
 
-**Site URL:** https://literacy-for-kids.github.io/financial_literacy_for_kids/
+**Site URL:** https://financial.literacy-for-kids.com/
 **Existing images:**
 - `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — ✅ replaced with custom logo
@@ -143,7 +143,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 ### Decision Literacy — decision_literacy_for_kids
 
-**Site URL:** https://literacy-for-kids.github.io/decision_literacy_for_kids/
+**Site URL:** https://decision.literacy-for-kids.com/
 **Existing images:**
 - `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — ✅ replaced with custom logo
@@ -171,7 +171,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 ### Media Literacy — media_literacy_for_kids
 
-**Site URL:** https://literacy-for-kids.github.io/media_literacy_for_kids/
+**Site URL:** https://media.literacy-for-kids.com/
 **Existing images:**
 - `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — ✅ replaced with custom logo
@@ -199,7 +199,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 ### Civic Literacy — civic_literacy_for_kids
 
-**Site URL:** https://literacy-for-kids.github.io/civic_literacy_for_kids/
+**Site URL:** https://civic.literacy-for-kids.com/
 **Existing images:**
 - `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — ✅ replaced with custom logo
@@ -227,7 +227,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 ### Legal Literacy — legal_literacy_for_kids
 
-**Site URL:** https://literacy-for-kids.github.io/legal_literacy_for_kids/
+**Site URL:** https://legal.literacy-for-kids.com/
 **Existing images:**
 - `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — ✅ replaced with custom logo
@@ -273,7 +273,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 ### Emotional & Social Literacy — emotional_and_social_literacy_for_kids
 
-**Site URL:** https://literacy-for-kids.github.io/emotional_and_social_literacy_for_kids/
+**Site URL:** https://emotional.literacy-for-kids.com/
 **Existing images:**
 - `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — ✅ replaced with custom logo
@@ -319,7 +319,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 ### Environmental Systems Literacy — Environmental_system_literacy_for_kids
 
-**Site URL:** https://literacy-for-kids.github.io/Environmental_system_literacy_for_kids/
+**Site URL:** https://environmental.literacy-for-kids.com/
 **Existing images:**
 - `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — ✅ replaced with custom logo
@@ -365,7 +365,7 @@ Note: The original five curricula (Computer, Financial, Decision, Media, Civic) 
 
 ### Health Systems Literacy — health_literacy_for_kids
 
-**Site URL:** https://literacy-for-kids.github.io/health_literacy_for_kids/
+**Site URL:** https://health.literacy-for-kids.com/
 **Existing images:**
 - `favicon.ico` — ✅ replaced with custom icon
 - `logo.svg` — ✅ replaced with custom logo

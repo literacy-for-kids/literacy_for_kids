@@ -12,39 +12,39 @@ The Literacy for Kids framework provides children with a practical mental model 
 
 ### 1. Decision Literacy — reasoning and thinking
 
-[Decision Literacy](https://literacy-for-kids.github.io/decision_literacy_for_kids/) is the foundation. It helps students slow down, evaluate choices, and notice consequences. Clear thinking supports every other literacy.
+[Decision Literacy](https://decision.literacy-for-kids.com/) is the foundation. It helps students slow down, evaluate choices, and notice consequences. Clear thinking supports every other literacy.
 
 ### 2. Computer Literacy — understanding technology
 
-[Computer Literacy](https://literacy-for-kids.github.io/computer_literacy_for_kids/) helps students understand the machines they interact with every day and how to use them responsibly.
+[Computer Literacy](https://computer.literacy-for-kids.com/) helps students understand the machines they interact with every day and how to use them responsibly.
 
 ### 3. Media Literacy — understanding information systems
 
-[Media Literacy](https://literacy-for-kids.github.io/media_literacy_for_kids/) helps students understand how information spreads, evaluate claims, recognize bias, and notice how algorithms shape what they see.
+[Media Literacy](https://media.literacy-for-kids.com/) helps students understand how information spreads, evaluate claims, recognize bias, and notice how algorithms shape what they see.
 
 ### 4. Financial Literacy — understanding value and trade
 
-[Financial Literacy](https://literacy-for-kids.github.io/financial_literacy_for_kids/) helps students understand value, trade, resources, and how present choices can affect future options.
+[Financial Literacy](https://financial.literacy-for-kids.com/) helps students understand value, trade, resources, and how present choices can affect future options.
 
 ### 5. Civic Literacy — understanding governance and social organization
 
-[Civic Literacy](https://literacy-for-kids.github.io/civic_literacy_for_kids/) helps students understand social systems, shared rules, and how people shape their communities and governments.
+[Civic Literacy](https://civic.literacy-for-kids.com/) helps students understand social systems, shared rules, and how people shape their communities and governments.
 
 ### 6. Emotional & Social Literacy — understanding self and others
 
-[Emotional & Social Literacy](https://literacy-for-kids.github.io/emotional_and_social_literacy_for_kids/) helps students understand their own internal signals and navigate human networks intentionally.
+[Emotional & Social Literacy](https://emotional.literacy-for-kids.com/) helps students understand their own internal signals and navigate human networks intentionally.
 
 ### 7. Legal Literacy — understanding rules and agreements
 
-[Legal Literacy](https://literacy-for-kids.github.io/legal_literacy_for_kids/) helps students understand how rules, contracts, and legal systems are built — and how to use them.
+[Legal Literacy](https://legal.literacy-for-kids.com/) helps students understand how rules, contracts, and legal systems are built — and how to use them.
 
 ### 8. Environmental Systems Literacy — understanding Earth systems
 
-[Environmental Systems Literacy](https://literacy-for-kids.github.io/Environmental_system_literacy_for_kids/) helps students understand the Earth as a physical system and where human infrastructure fits into it.
+[Environmental Systems Literacy](https://environmental.literacy-for-kids.com/) helps students understand the Earth as a physical system and where human infrastructure fits into it.
 
 ### 9. Health Systems Literacy — understanding the body
 
-[Health Systems Literacy](https://literacy-for-kids.github.io/health_literacy_for_kids/) helps students understand the human body as an integrated biological system and how to maintain it intentionally.
+[Health Systems Literacy](https://health.literacy-for-kids.com/) helps students understand the human body as an integrated biological system and how to maintain it intentionally.
 
 ## How the literacies connect
 

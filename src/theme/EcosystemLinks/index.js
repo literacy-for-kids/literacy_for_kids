@@ -10,27 +10,27 @@ const ecosystemLinks = [
   {
     label: 'Decision Literacy',
     description: 'Reasoning and choices',
-    href: 'https://literacy-for-kids.github.io/decision_literacy_for_kids/',
+    href: 'https://decision.literacy-for-kids.com/',
   },
   {
     label: 'Computer Literacy',
     description: 'Understanding technology',
-    href: 'https://literacy-for-kids.github.io/computer_literacy_for_kids/',
+    href: 'https://computer.literacy-for-kids.com/',
   },
   {
     label: 'Media Literacy',
     description: 'Understanding information',
-    href: 'https://literacy-for-kids.github.io/media_literacy_for_kids/',
+    href: 'https://media.literacy-for-kids.com/',
   },
   {
     label: 'Financial Literacy',
     description: 'Understanding money',
-    href: 'https://literacy-for-kids.github.io/financial_literacy_for_kids/',
+    href: 'https://financial.literacy-for-kids.com/',
   },
   {
     label: 'Civic Literacy',
     description: 'Understanding governance',
-    href: 'https://literacy-for-kids.github.io/civic_literacy_for_kids/',
+    href: 'https://civic.literacy-for-kids.com/',
   },
 ];
 

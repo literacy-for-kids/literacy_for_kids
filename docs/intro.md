@@ -14,15 +14,15 @@ Every day, children interact with complex systems — technology, media, money, 
 
 This project includes nine independent curricula:
 
-- [🧠 Decision Literacy for Kids](https://literacy-for-kids.github.io/decision_literacy_for_kids/) — reasoning and choices
-- [💻 Computer Literacy for Kids](https://literacy-for-kids.github.io/computer_literacy_for_kids/) — understanding technology
-- [📰 Media Literacy for Kids](https://literacy-for-kids.github.io/media_literacy_for_kids/) — understanding information
-- [💰 Financial Literacy for Kids](https://literacy-for-kids.github.io/financial_literacy_for_kids/) — understanding money
-- [🏛 Civic Literacy for Kids](https://literacy-for-kids.github.io/civic_literacy_for_kids/) — understanding governance
-- [🧩 Emotional & Social Literacy for Kids](https://literacy-for-kids.github.io/emotional_and_social_literacy_for_kids/) — understanding self and others
-- [⚖️ Legal Literacy for Kids](https://literacy-for-kids.github.io/legal_literacy_for_kids/) — understanding rules and agreements
-- [🌍 Environmental Systems Literacy](https://literacy-for-kids.github.io/Environmental_system_literacy_for_kids/) — understanding Earth systems
-- [🩺 Health Systems Literacy for Kids](https://literacy-for-kids.github.io/health_literacy_for_kids/) — understanding the body
+- [🧠 Decision Literacy for Kids](https://decision.literacy-for-kids.com/) — reasoning and choices
+- [💻 Computer Literacy for Kids](https://computer.literacy-for-kids.com/) — understanding technology
+- [📰 Media Literacy for Kids](https://media.literacy-for-kids.com/) — understanding information
+- [💰 Financial Literacy for Kids](https://financial.literacy-for-kids.com/) — understanding money
+- [🏛 Civic Literacy for Kids](https://civic.literacy-for-kids.com/) — understanding governance
+- [🧩 Emotional & Social Literacy for Kids](https://emotional.literacy-for-kids.com/) — understanding self and others
+- [⚖️ Legal Literacy for Kids](https://legal.literacy-for-kids.com/) — understanding rules and agreements
+- [🌍 Environmental Systems Literacy](https://environmental.literacy-for-kids.com/) — understanding Earth systems
+- [🩺 Health Systems Literacy for Kids](https://health.literacy-for-kids.com/) — understanding the body
 
 ## Shared toolkits
 

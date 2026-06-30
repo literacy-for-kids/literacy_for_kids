@@ -75,15 +75,20 @@ literacy_site_template/
 
 ### URL pattern
 
+Each site is served from its own custom (sub)domain:
+
 ```
-https://literacy-for-kids.github.io/{repo_name}/
+https://{subdomain}.literacy-for-kids.com/
 ```
+
+The hub uses `https://www.literacy-for-kids.com/`; each curriculum uses its topic
+subdomain (e.g. `https://computer.literacy-for-kids.com/`).
 
 ### Required Docusaurus config
 
 ```js
-url: 'https://literacy-for-kids.github.io',
-baseUrl: '/{repo_name}/',   // must match GitHub repo name exactly (case-sensitive)
+url: 'https://{subdomain}.literacy-for-kids.com',
+baseUrl: '/',                // sites are served from the domain root
 trailingSlash: true,         // required for GitHub Pages static file routing
 ```
 

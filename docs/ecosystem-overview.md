@@ -14,15 +14,15 @@ Literacy for Kids is a collection of open-source curricula for children ages 8�
 
 | | Curriculum | What it covers | Live site |
 |---|---|---|---|
-| 🧠 | Decision Literacy | Probability, trade-offs, biases, and structured reasoning | [Website](https://literacy-for-kids.github.io/decision_literacy_for_kids/) |
-| 💻 | Computer Literacy | How computers and the internet work; digital citizenship; coding; AI | [Website](https://literacy-for-kids.github.io/computer_literacy_for_kids/) |
-| 📰 | Media Literacy | How media and information are constructed; verification; algorithms | [Website](https://literacy-for-kids.github.io/media_literacy_for_kids/) |
-| 💰 | Financial Literacy | Money as a system; budgeting; saving; trade-offs; value creation | [Website](https://literacy-for-kids.github.io/financial_literacy_for_kids/) |
-| 🏛️ | Civic Literacy | Communities, government, public services, and civic participation | [Website](https://literacy-for-kids.github.io/civic_literacy_for_kids/) |
-| 🧩 | Emotional & Social Literacy | Emotions as signals; reactivity; trust; conflict; social systems | [Website](https://literacy-for-kids.github.io/emotional_and_social_literacy_for_kids/) |
-| ⚖️ | Legal Literacy | Rules, contracts, rights, and how disputes get resolved | [Website](https://literacy-for-kids.github.io/legal_literacy_for_kids/) |
-| 🌍 | Environmental Systems Literacy | Earth as a physical system; energy flow; matter cycles; resource limits | [Website](https://literacy-for-kids.github.io/Environmental_system_literacy_for_kids/) |
-| 🩺 | Health Systems Literacy | The body as a biological system; homeostasis; sleep; immunity; microbiome | [Website](https://literacy-for-kids.github.io/health_literacy_for_kids/) |
+| 🧠 | Decision Literacy | Probability, trade-offs, biases, and structured reasoning | [Website](https://decision.literacy-for-kids.com/) |
+| 💻 | Computer Literacy | How computers and the internet work; digital citizenship; coding; AI | [Website](https://computer.literacy-for-kids.com/) |
+| 📰 | Media Literacy | How media and information are constructed; verification; algorithms | [Website](https://media.literacy-for-kids.com/) |
+| 💰 | Financial Literacy | Money as a system; budgeting; saving; trade-offs; value creation | [Website](https://financial.literacy-for-kids.com/) |
+| 🏛️ | Civic Literacy | Communities, government, public services, and civic participation | [Website](https://civic.literacy-for-kids.com/) |
+| 🧩 | Emotional & Social Literacy | Emotions as signals; reactivity; trust; conflict; social systems | [Website](https://emotional.literacy-for-kids.com/) |
+| ⚖️ | Legal Literacy | Rules, contracts, rights, and how disputes get resolved | [Website](https://legal.literacy-for-kids.com/) |
+| 🌍 | Environmental Systems Literacy | Earth as a physical system; energy flow; matter cycles; resource limits | [Website](https://environmental.literacy-for-kids.com/) |
+| 🩺 | Health Systems Literacy | The body as a biological system; homeostasis; sleep; immunity; microbiome | [Website](https://health.literacy-for-kids.com/) |
 
 ---
 

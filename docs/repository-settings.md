@@ -47,15 +47,15 @@ Set these under **Settings › General › Website** for each repository.
 | Repository | Homepage URL |
 |---|---|
 | `literacy_for_kids` | `https://www.literacy-for-kids.com/` |
-| `decision_literacy_for_kids` | `https://literacy-for-kids.github.io/decision_literacy_for_kids/` |
-| `computer_literacy_for_kids` | `https://literacy-for-kids.github.io/computer_literacy_for_kids/` |
-| `media_literacy_for_kids` | `https://literacy-for-kids.github.io/media_literacy_for_kids/` |
-| `financial_literacy_for_kids` | `https://literacy-for-kids.github.io/financial_literacy_for_kids/` |
-| `civic_literacy_for_kids` | `https://literacy-for-kids.github.io/civic_literacy_for_kids/` |
-| `emotional_and_social_literacy_for_kids` | `https://literacy-for-kids.github.io/emotional_and_social_literacy_for_kids/` |
-| `legal_literacy_for_kids` | `https://literacy-for-kids.github.io/legal_literacy_for_kids/` |
-| `Environmental_system_literacy_for_kids` | `https://literacy-for-kids.github.io/Environmental_system_literacy_for_kids/` |
-| `health_literacy_for_kids` | `https://literacy-for-kids.github.io/health_literacy_for_kids/` |
+| `decision_literacy_for_kids` | `https://decision.literacy-for-kids.com/` |
+| `computer_literacy_for_kids` | `https://computer.literacy-for-kids.com/` |
+| `media_literacy_for_kids` | `https://media.literacy-for-kids.com/` |
+| `financial_literacy_for_kids` | `https://financial.literacy-for-kids.com/` |
+| `civic_literacy_for_kids` | `https://civic.literacy-for-kids.com/` |
+| `emotional_and_social_literacy_for_kids` | `https://emotional.literacy-for-kids.com/` |
+| `legal_literacy_for_kids` | `https://legal.literacy-for-kids.com/` |
+| `Environmental_system_literacy_for_kids` | `https://environmental.literacy-for-kids.com/` |
+| `health_literacy_for_kids` | `https://health.literacy-for-kids.com/` |
 | `literacy_site_template` | `https://github.com/literacy-for-kids/literacy_site_template` |
 
 ---

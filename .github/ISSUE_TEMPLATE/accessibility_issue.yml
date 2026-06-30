@@ -11,7 +11,7 @@ body:
     id: page
     attributes:
       label: Which page or curriculum is affected?
-      placeholder: "https://literacy-for-kids.github.io/..."
+      placeholder: "https://www.literacy-for-kids.com/..."
     validations:
       required: true
 
