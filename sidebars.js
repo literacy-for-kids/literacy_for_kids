@@ -5,6 +5,20 @@ const sidebars = {
   docsSidebar: [
     {
       type: 'category',
+      label: 'Start Here',
+      collapsed: false,
+      link: {type: 'doc', id: 'start-here/start-here-intro'},
+      items: [
+        'start-here/start-here-intro',
+        'start-here/start-here-parents',
+        'start-here/start-here-facilitators',
+        'start-here/start-here-choose-a-literacy',
+        'start-here/start-here-use-one-lesson',
+        'start-here/start-here-use-shared-toolkits',
+      ],
+    },
+    {
+      type: 'category',
       label: 'About the Project',
       collapsed: false,
       items: [

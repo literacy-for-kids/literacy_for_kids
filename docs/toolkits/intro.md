@@ -7,6 +7,8 @@ slug: /toolkits
 
 # Shared Toolkits
 
+New to the project? Start with [Start Here](../start-here/intro.md) or [Use Shared Toolkits](../start-here/use-shared-toolkits.md).
+
 Literacy for Kids has two layers that work together.
 
 - **Domain Literacies** are full curriculum sites that teach kids about the systems in the world — decisions, technology, media, money, civic life, emotions and relationships, law, the environment, and the body.

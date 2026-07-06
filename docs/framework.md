@@ -110,3 +110,5 @@ There is a seventh shared layer: how kids sort, label, connect, track, and find 
 The [Information Organization Toolkit](./toolkits/information-organization/intro.md) treats organizing as thinking rather than tidiness. Its message is practical rather than "just be organized" — a pile is a starting point, categories are choices, labels help future-you, notes are tools rather than transcripts, diagrams and timelines show what sentences hide, and sources need tracking before they disappear.
 
 The seven shared toolkits work together. Coping helps kids stay regulated enough to think. Communication helps them ask, explain, listen, and get help. Problem solving helps them choose a useful next step. Learning how to learn helps them practice, remember, and improve over time. Executive function helps them plan, start, organize, prioritize, recover, and finish. Collaboration helps them work with others toward shared goals, fair roles, repair, and shared finishing. Information organization helps them sort, label, connect, track, and find information.
+
+If you are trying to decide where to begin, see [Start Here](./start-here/intro.md).

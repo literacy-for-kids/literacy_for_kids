@@ -8,6 +8,8 @@ sidebar_label: Using the Curricula
 
 These curricula are flexible. You can use them in a classroom, at home, or in a community setting without long lectures or complicated preparation.
 
+New here? The [Start Here](./start-here/intro.md) guide covers the fastest ways to begin, including [running your first single lesson](./start-here/use-one-lesson.md).
+
 ## Classroom
 
 Use one or more curricula as a short weekly module. They fit naturally into advisory time, social studies, technology class, or a life-skills block. Lessons are designed to take 10–20 minutes, making them easy to integrate into an existing schedule.

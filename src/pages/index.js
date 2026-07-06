@@ -26,18 +26,24 @@ const rolePathways = [
     title: 'Parents & Caregivers',
     description:
       'Start with a topic your child is already curious about. Each curriculum has short lessons (10–20 min) you can use one-on-one at home — no prep needed.',
+    href: '/docs/start-here/parents',
+    linkText: 'Parent start guide →',
   },
   {
     icon: '🏫',
     title: 'Teachers & Classrooms',
     description:
       'Ready-to-use, discussion-based lessons designed for group settings. Pick whichever topic complements your current unit or student interest.',
+    href: '/docs/start-here/facilitators',
+    linkText: 'Facilitator start guide →',
   },
   {
     icon: '📚',
     title: 'Clubs, Homeschool & Libraries',
     description:
       'Modular and flexible — use any topic, any lesson, in any order. Great for enrichment programs, co-ops, and reading groups.',
+    href: '/docs/start-here/facilitators',
+    linkText: 'Facilitator start guide →',
   },
 ];
 
@@ -259,6 +265,9 @@ export default function Home() {
             community educators.
           </p>
           <div style={{display: 'flex', gap: '1rem', flexWrap: 'wrap'}}>
+            <Link className="button button--primary button--lg" to="/docs/start-here">
+              Start here
+            </Link>
             <a className="button button--secondary button--lg" href="#start-here">
               Find the right curriculum
             </a>
@@ -286,9 +295,9 @@ export default function Home() {
                     <span aria-hidden="true">{role.icon}</span> {role.title}
                   </h4>
                   <p>{role.description}</p>
-                  <a className={styles.roleCardLink} href="#compare">
-                    Compare curricula ↓
-                  </a>
+                  <Link className={styles.roleCardLink} to={role.href}>
+                    {role.linkText}
+                  </Link>
                 </div>
               ))}
             </div>
