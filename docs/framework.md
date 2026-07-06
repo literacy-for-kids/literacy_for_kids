@@ -85,4 +85,28 @@ There is a third shared layer: what kids do when something feels stuck, confusin
 
 The [Problem Solving Toolkit](./toolkits/problem-solving/intro.md) gives kids a repeatable loop they can use anywhere: define the problem, separate facts from guesses, break it into parts, choose one safe step, observe what happened, and adjust. Its message is practical rather than "be a genius" — problems get easier when you name them clearly and try a useful next step.
 
-The three shared toolkits work together. Coping helps kids stay regulated enough to think. Communication helps them ask, explain, listen, and get help. Problem solving helps them choose a useful next step.
+## A cross-cutting layer: learning how to learn
+
+There is a fourth shared layer: how kids get better over time. Every literacy asks kids to learn unfamiliar ideas, revisit concepts, practice skills, make mistakes, ask questions, use feedback, and remember things later.
+
+The [Learning How to Learn Toolkit](./toolkits/learning-how-to-learn/intro.md) treats learning itself as a system rather than a talent. Its message is practical rather than "try harder" — forgetting is normal, confusion is a signal, remembering practice beats rereading, small practice over time beats cramming, and mistakes are data that show what to practice next.
+
+## A cross-cutting layer: executive function skills
+
+There is a fifth shared layer: how kids make tasks visible, startable, organized, trackable, recoverable, and finishable. Every literacy asks kids to do multi-step work — start projects, save files, track choices, compare options, practice routines, revise drafts, build models, plan proposals, and come back after interruptions.
+
+The [Executive Function Toolkit](./toolkits/executive-function/intro.md) treats getting things done as a skill rather than a character trait. Its message is practical rather than "be more disciplined" — a task gets easier when it is clear, the first step is tiny, checklists carry the steps, distractions are attention pulls you can design around, and interruptions have restart points.
+
+## A cross-cutting layer: collaboration skills
+
+There is a sixth shared layer: how kids work with other people toward a shared goal. Every literacy eventually involves shared work — group decisions, digital projects, media messages, civic proposals, agreements, emotional and social repair, health routines, environmental audits, and community projects.
+
+The [Collaboration Toolkit](./toolkits/collaboration/intro.md) treats working together as a skill rather than a personality trait. Its message is practical rather than "just be nice" — shared work goes better when the group names the goal, makes roles visible, discusses fairness instead of guessing, checks in before the deadline, disagrees without attacking, repairs messes, and finishes together with credit.
+
+## A cross-cutting layer: information organization skills
+
+There is a seventh shared layer: how kids sort, label, connect, track, and find information. Every literacy asks kids to work with information — options, facts, claims, evidence, rules, body systems, environmental loops, civic processes, digital files, notes, and sources.
+
+The [Information Organization Toolkit](./toolkits/information-organization/intro.md) treats organizing as thinking rather than tidiness. Its message is practical rather than "just be organized" — a pile is a starting point, categories are choices, labels help future-you, notes are tools rather than transcripts, diagrams and timelines show what sentences hide, and sources need tracking before they disappear.
+
+The seven shared toolkits work together. Coping helps kids stay regulated enough to think. Communication helps them ask, explain, listen, and get help. Problem solving helps them choose a useful next step. Learning how to learn helps them practice, remember, and improve over time. Executive function helps them plan, start, organize, prioritize, recover, and finish. Collaboration helps them work with others toward shared goals, fair roles, repair, and shared finishing. Information organization helps them sort, label, connect, track, and find information.

@@ -39,71 +39,39 @@ Kids do not just need to understand systems. They also need practical tools for 
 
 A child can understand how media or money or rules work and still get stuck when a real moment arrives — a flash of frustration, a confusing message, a problem with no obvious first step. Shared toolkits are where those everyday skills live, so every curriculum can draw on them.
 
+## Which toolkit should I use?
+
+| Situation | Start with |
+|---|---|
+| Big feelings, stress, shutdown, or reacting too fast | [Coping Skills Toolkit](./coping-skills/intro.md) |
+| Misunderstanding, disagreement, explaining thinking, or asking for help | [Communication Toolkit](./communication/intro.md) |
+| Something feels confusing, broken, stuck, unfair, or too big | [Problem Solving Toolkit](./problem-solving/intro.md) |
+| A child is trying to remember, practice, get feedback, or improve | [Learning How to Learn Toolkit](./learning-how-to-learn/intro.md) |
+| A task is hard to start, organize, prioritize, track, or finish | [Executive Function Toolkit](./executive-function/intro.md) |
+| Shared work, group projects, roles, fairness, disagreement, or finishing together | [Collaboration Toolkit](./collaboration/intro.md) |
+| Information feels messy, sources are scattered, notes are hard to use, or ideas need sorting | [Information Organization Toolkit](./information-organization/intro.md) |
+
+For quick-reference cards from all seven toolkits, see the [Shared Toolkit Printables](./printables.md).
+
 ## Current toolkits
 
-These toolkits are the first reusable modules in the shared layer.
+Seven toolkits are built and ready to use. Each has a short overview, eight 10–20 minute lessons, and a set of printable cards.
 
-### 🧰 Coping Skills Toolkit
-
-Short lessons that help kids notice stress signals, pause before reacting, calm their body, check their thoughts, ask for help, and recover after hard moments.
-
-Core ideas:
-
-- A feeling is a signal, not a command.
-- A body clue is information.
-- A pause creates choice.
-- Different tools work for different people.
-- Asking for help is a skill.
-- Repair matters.
-
-[Open the Coping Skills Toolkit](./coping-skills/intro.md)
-
-### 💬 Communication Toolkit
-
-Short lessons that help kids listen actively, ask clearer questions, explain their thinking, disagree respectfully, ask for help, use feedback, and repair misunderstandings.
-
-Core ideas:
-
-- Communication reduces guessing.
-- Listening is active.
-- Questions are tools.
-- Understanding is not the same as agreeing.
-- Disagreement is allowed.
-- Feedback is information.
-- Repair is part of communication.
-
-[Open the Communication Toolkit](./communication/intro.md)
-
-### 🛠️ Problem Solving Toolkit
-
-Short lessons that help kids define problems clearly, separate facts from guesses, break big problems into smaller parts, brainstorm options, try one safe step, observe what happened, and adjust.
-
-Core ideas:
-
-- Naming the problem makes it smaller.
-- Facts, guesses, and missing information are different.
-- Big problems can be broken into parts.
-- Small safe tests teach you things.
-- Results are information.
-- Adjusting is part of solving.
-- Asking for help can be part of the plan.
-
-[Open the Problem Solving Toolkit](./problem-solving/intro.md)
-
-## Planned toolkits
-
-More modules are planned for the shared layer. These are not built yet.
-
-- **Learning How to Learn Toolkit** — planned. Helps kids understand practice, memory, forgetting, mistakes, feedback, and study strategies.
-- **Executive Function Toolkit** — planned. Helps kids plan, start, organize, prioritize, estimate time, manage distractions, and recover after interruptions.
+| Toolkit | Helps kids with | Start here | Printable cards |
+|---|---|---|---|
+| 🧰 Coping Skills | noticing body clues, pausing, grounding, calming, asking for help, recovering | [Toolkit](./coping-skills/intro.md) | [Cards](./coping-skills/printables.md) |
+| 💬 Communication | listening, clarifying, explaining thinking, disagreeing respectfully, asking for help, feedback, repair | [Toolkit](./communication/intro.md) | [Cards](./communication/printables.md) |
+| 🛠️ Problem Solving | naming problems, sorting facts and guesses, breaking down, brainstorming, testing, observing, adjusting | [Toolkit](./problem-solving/intro.md) | [Cards](./problem-solving/printables.md) |
+| 📚 Learning How to Learn | forgetting checks, remembering practice, mistakes as data, teach-back, better questions, practice plans | [Toolkit](./learning-how-to-learn/intro.md) | [Cards](./learning-how-to-learn/printables.md) |
+| 🗂️ Executive Function | clarifying jobs, tiny first steps, checklists, time and energy guesses, priorities, distractions, restart bookmarks, done-enough checks | [Toolkit](./executive-function/intro.md) | [Cards](./executive-function/printables.md) |
+| 🤝 Collaboration | shared goals, visible roles, fair work, check-ins, disagreement, group repair, shared credit, finishing together | [Toolkit](./collaboration/intro.md) | [Cards](./collaboration/printables.md) |
+| 🗃️ Information Organization | sorting, categories, labels, examples and non-examples, useful notes, diagrams and timelines, source tracking, findability | [Toolkit](./information-organization/intro.md) | [Cards](./information-organization/printables.md) |
 
 ## Possible future toolkits
 
 Further modules that may join the layer over time:
 
-- Collaboration Toolkit
 - Attention & Focus Toolkit
-- Information Organization Toolkit
 
 ## How to use shared toolkits
 

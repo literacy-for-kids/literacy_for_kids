@@ -97,6 +97,42 @@ const sharedToolkits = [
     pairsWith:
       'Pairs especially well with Computer, Decision, Environmental Systems, Civic, Health Systems, Emotional & Social, Legal, Media, and Financial Literacy.',
   },
+  {
+    icon: '📚',
+    title: 'Learning How to Learn Toolkit',
+    href: '/docs/toolkits/learning-how-to-learn',
+    tagline:
+      'Short lessons that help kids understand forgetting, practice remembering, use mistakes as data, ask better learning questions, get feedback, and make a practice plan.',
+    pairsWith:
+      'Pairs especially well with every curriculum, because every literacy depends on practice, memory, mistakes, feedback, and improvement over time.',
+  },
+  {
+    icon: '🗂️',
+    title: 'Executive Function Toolkit',
+    href: '/docs/toolkits/executive-function',
+    tagline:
+      'Short lessons that help kids plan, start, organize, prioritize, estimate time, handle distractions, recover after interruptions, and finish tasks without shame.',
+    pairsWith:
+      'Pairs especially well with every curriculum, because every literacy asks kids to start tasks, manage steps, track progress, and finish projects.',
+  },
+  {
+    icon: '🤝',
+    title: 'Collaboration Toolkit',
+    href: '/docs/toolkits/collaboration',
+    tagline:
+      'Short lessons that help kids define shared goals, choose roles, share work fairly, check in, disagree respectfully, repair group friction, finish together, and give credit.',
+    pairsWith:
+      'Pairs especially well with group projects, civic work, media creation, environmental proposals, emotional and social skills, and any lesson where kids need to build something together.',
+  },
+  {
+    icon: '🗃️',
+    title: 'Information Organization Toolkit',
+    href: '/docs/toolkits/information-organization',
+    tagline:
+      'Short lessons that help kids sort information, choose categories, label clearly, use examples and non-examples, take useful notes, make diagrams and timelines, track sources, and find what they need later.',
+    pairsWith:
+      'Pairs especially well with research, media analysis, legal reasoning, civic arguments, environmental systems, health concepts, decision journals, and digital projects.',
+  },
 ];
 
 const usageExamples = [
