@@ -1,14 +1,14 @@
 # Literacy for Kids
 
 ![Curricula](https://img.shields.io/badge/curricula-9-brightgreen)
+![Shared Toolkits](https://img.shields.io/badge/shared%20toolkits-7-blueviolet)
 ![Content License](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-green)
 ![Code License](https://img.shields.io/badge/code-MIT-blue)
-![Built with Docusaurus](https://img.shields.io/badge/site-Docusaurus-blue)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange)
 
 Open-source curricula helping children ages 8–12 understand the systems that shape modern life.
 
-🌐 **View the project hub:**  
+🌐 **Start here:**
 https://www.literacy-for-kids.com/
 
 ---
@@ -19,11 +19,26 @@ Literacy for Kids is a collection of open-source curricula designed for children
 
 The project focuses on practical literacies for navigating the world thoughtfully, confidently, and responsibly — including technology, media, decision-making, money, civic life, health, law, environmental systems, and emotional/social development. The lessons are short, discussion-based, and designed for parents, teachers, homeschool families, and community educators.
 
-Rather than trying to cover every academic subject, Literacy for Kids helps children build practical mental models for how the world works. The goal is to make important systems more visible, more understandable, and easier to talk about together.
+The project has **two layers that work together:**
 
-## Curriculum Collection
+- **Domain literacies** — nine full curricula that answer: *what systems should kids understand?*
+- **Shared Toolkits** — seven short life-skill modules that answer: *what skills help kids use that understanding in real life?*
 
-Each curriculum is maintained as its own Docusaurus site and GitHub repository. The hub site introduces the larger project and helps visitors find the curriculum that best fits their learner, classroom, family, or community setting.
+## New Here? Start Here
+
+The fastest way in is the **[Start Here guide](https://www.literacy-for-kids.com/docs/start-here/)** — a 90-second orientation with dedicated paths for different readers:
+
+- **[For Parents and Caregivers](https://www.literacy-for-kids.com/docs/start-here/parents/)** — use one lesson at home without becoming a teacher
+- **[For Teachers and Facilitators](https://www.literacy-for-kids.com/docs/start-here/facilitators/)** — run a session in a classroom, library, club, or co-op
+- **[Choose a Literacy](https://www.literacy-for-kids.com/docs/start-here/choose-a-literacy/)** — pick among the nine curricula by a child's question or friction point
+- **[Use One Lesson](https://www.literacy-for-kids.com/docs/start-here/use-one-lesson/)** — 10-, 20-, and 45-minute session structures
+- **[Use Shared Toolkits](https://www.literacy-for-kids.com/docs/start-here/use-shared-toolkits/)** — pick one skill, not all seven
+
+You do not need to use everything. One lesson, one discussion, or one printable card is a complete use of the project.
+
+## The Nine Curricula
+
+Each curriculum is an 18-week program maintained as its own site and repository. Every lesson works standalone as a 10–20 minute discussion or activity.
 
 | | Curriculum | What it helps kids understand | Website | Repo |
 |---|---|---|---|---|
@@ -33,9 +48,25 @@ Each curriculum is maintained as its own Docusaurus site and GitHub repository. 
 | 💰 | Financial Literacy | Money as a system for value, planning, trade-offs, budgeting, banking, inflation, and value creation | <a href="https://financial.literacy-for-kids.com/">Website</a> | <a href="https://github.com/literacy-for-kids/financial_literacy_for_kids">Repo</a> |
 | 🏛️ | Civic Literacy | Communities, cooperation, government, public services, participation, and nonpartisan civic problem solving | <a href="https://civic.literacy-for-kids.com/">Website</a> | <a href="https://github.com/literacy-for-kids/civic_literacy_for_kids">Repo</a> |
 | ⚖️ | Legal Literacy | Rules, contracts, rights, precedent, due process, dispute resolution, and the operating rules of society | <a href="https://legal.literacy-for-kids.com/">Website</a> | <a href="https://github.com/literacy-for-kids/legal_literacy_for_kids">Repo</a> |
-| ❤️ | Health Literacy | The body as a physiological system: homeostasis, fuel, sleep, immunity, microbiome, and preventive maintenance | <a href="https://health.literacy-for-kids.com/">Website</a> | <a href="https://github.com/literacy-for-kids/health_literacy_for_kids">Repo</a> |
+| ❤️ | Health Systems Literacy | The body as a physiological system: homeostasis, fuel, sleep, immunity, microbiome, and preventive maintenance | <a href="https://health.literacy-for-kids.com/">Website</a> | <a href="https://github.com/literacy-for-kids/health_literacy_for_kids">Repo</a> |
 | 🌎 | Environmental Systems Literacy | Earth as a closed-loop physical system: energy flow, matter cycles, resource limits, circular systems, and human infrastructure | <a href="https://environmental.literacy-for-kids.com/">Website</a> | <a href="https://github.com/literacy-for-kids/Environmental_system_literacy_for_kids">Repo</a> |
 | 🤝 | Emotional & Social Literacy | Emotions as telemetry, reactivity, trust, boundaries, conflict, communication, and social systems | <a href="https://emotional.literacy-for-kids.com/">Website</a> | <a href="https://github.com/literacy-for-kids/emotional_and_social_literacy_for_kids">Repo</a> |
+
+## The Seven Shared Toolkits
+
+[Shared Toolkits](https://www.literacy-for-kids.com/docs/toolkits/) are short, reusable life-skill modules that support every curriculum. Each has a short overview, eight 10–20 minute lessons, and [printable cards](https://www.literacy-for-kids.com/docs/toolkits/printables/). Every curriculum site includes local doorway pages and in-lesson "Moment" callouts that connect these skills to that subject.
+
+| Toolkit | Helps kids with |
+|---|---|
+| 🧰 Coping Skills | noticing body clues, pausing, grounding, calming, asking for help, recovering |
+| 💬 Communication | listening, clarifying, explaining thinking, disagreeing respectfully, feedback, repair |
+| 🛠️ Problem Solving | naming problems, sorting facts and guesses, breaking down, testing, adjusting |
+| 📚 Learning How to Learn | remembering practice, mistakes as data, teach-back, better questions, practice plans |
+| 🗂️ Executive Function | tiny first steps, checklists, priorities, distractions, restarting, finishing |
+| 🤝 Collaboration | shared goals, visible roles, fair work, check-ins, group repair, shared credit |
+| 🗃️ Information Organization | sorting, categories, labels, useful notes, diagrams, source tracking, findability |
+
+The toolkits teach everyday skills. They are not therapy, medical advice, legal advice, or a compliance system — and kids are never required to disclose personal experiences. Fictional examples are always allowed.
 
 ## Shared Design Philosophy
 
@@ -49,68 +80,11 @@ Across the collection, the curricula are designed around a few common ideas:
 
 ## About This Repository
 
-This repository contains the Docusaurus source for the Literacy for Kids hub site.
+This repository contains the source for the [Literacy for Kids hub site](https://www.literacy-for-kids.com/). The hub hosts the Start Here onboarding guides, the framework that connects the nine literacies, all seven Shared Toolkits with their printables, and facilitator guidance. The curriculum lesson content itself lives in the individual curriculum repositories listed above.
 
-It is not the home of the curriculum lesson content itself. Instead, it introduces the project, explains how the curricula connect, and links visitors to the individual curriculum repositories and websites.
+## Contributing
 
-This hub repository is mainly for:
-
-- project overview pages
-- shared framing for the curriculum collection
-- navigation and links to the curriculum sites
-- documentation about the open-source project as a whole
-
-## Repository Structure
-
-Most hub content lives in the Docusaurus website source for this repository. Each individual curriculum keeps its own lesson content, facilitator resources, and curriculum-specific documentation in its own repository.
-
-```text
-literacy_for_kids/          # Hub site (this repo) — content at root
-  docs/                     # Hub documentation and overview pages
-  src/                      # Hub site components and pages
-  static/                   # Static assets
-  README.md                 # Project overview for GitHub
-
-{curriculum}_literacy_for_kids/  # Per-curriculum repos
-  website/                  # Docusaurus site source
-    docs/                   # Lesson content (Markdown)
-    src/                    # Page components
-    static/img/             # Logos, hero images, favicons
-    docusaurus.config.js
-
-literacy_site_template/     # Shared Docusaurus theme package
-  src/data/ecosystemLinks.js  # Single source of truth for all 9 curricula
-  src/theme/                # Shared navbar and footer components
-```
-
-The shared theme (`literacy_site_template`) is an npm package consumed by all nine curriculum sites. It exports the ecosystem link data that populates the navbar dropdown and footer on every site. When a curriculum is added, it is registered here and all sites update on their next build.
-
-## Getting Started (for Contributors)
-
-**To run a curriculum site locally:**
-
-```bash
-git clone https://github.com/literacy-for-kids/REPO_NAME.git
-cd REPO_NAME/website
-npm install
-npm start
-```
-
-The site opens at `http://localhost:3000`. For the hub (`literacy_for_kids`), omit the `cd website` step — the Docusaurus config is at the repo root.
-
-**To contribute curriculum content:**
-
-1. Fork the relevant curriculum repo on GitHub
-2. Create a branch: `git checkout -b my-lesson-edit`
-3. Edit the Markdown files under `website/docs/`
-4. Run the site locally to verify your changes
-5. Open a pull request against `main`
-
-Lesson content is plain Markdown. Each week of lessons is one file. The 18-week structure is defined by `website/sidebars.js`.
-
-**To contribute infrastructure or theme changes:**
-
-Changes to `literacy_site_template` affect all nine sites. Update the package, bump the version, then open PRs against each curriculum repo to pick up the new version. Include a note in the PR body about which sites are affected.
+Contributions are welcome across every repo — fixing typos, sharpening explanations, adding examples or activities, or improving facilitator guidance. All content is plain Markdown; fork the relevant repo, edit, and open a pull request. Every page on every live site has an "Edit this page" link that takes you straight to the file. See the [contributor guide](https://www.literacy-for-kids.com/docs/contributor-guide/) for style guidance.
 
 ## License
 
@@ -126,4 +100,6 @@ The dual license reflects two different kinds of openness: the infrastructure is
 ## Links
 
 - **Hub site:** https://www.literacy-for-kids.com/
+- **Start Here:** https://www.literacy-for-kids.com/docs/start-here/
+- **Shared Toolkits:** https://www.literacy-for-kids.com/docs/toolkits/
 - **GitHub organization:** https://github.com/literacy-for-kids
