@@ -8,6 +8,8 @@ sidebar_label: Ecosystem Overview
 
 Literacy for Kids is a collection of open-source curricula for children ages 8–12. Each curriculum teaches a foundational literacy that helps young learners understand a part of modern life they already interact with every day but rarely have explained to them.
 
+![The Literacy for Kids ecosystem: nine domain literacies supported by seven shared toolkits](/img/ecosystem-map.svg)
+
 ---
 
 ## The Nine Curricula

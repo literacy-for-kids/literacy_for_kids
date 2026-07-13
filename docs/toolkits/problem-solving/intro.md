@@ -83,6 +83,8 @@ This loop appears throughout the toolkit. The full version is great for printabl
 7. What happened?
 8. What should I change next?
 
+![The problem-solving loop: eight questions arranged in a circle, from naming the problem to deciding what to change next](/img/toolkits/problem-solving-loop.svg)
+
 A shorter kid-facing version works well for quick callouts and younger learners:
 
 > Name it. Check what you know. Break it down. Think of options. Try one safe step. Notice what happened. Adjust.

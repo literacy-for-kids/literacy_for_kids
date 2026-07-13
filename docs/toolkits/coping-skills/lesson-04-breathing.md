@@ -30,9 +30,13 @@ Breathe in for a count of about 3, then breathe out slowly for a count of about 
 
 Trace a square in your mind: breathe in (4), hold gently (4), breathe out (4), hold gently (4). Go around the box a few times. Keep every count comfortable.
 
+![Box breathing: trace a square — breathe in for 4, hold for 4, breathe out for 4, hold for 4](/img/toolkits/box-breathing.svg)
+
 ### Hand-tracing breathing
 
 Spread one hand. With a finger from the other hand, trace up each finger as you breathe in, and down the other side as you breathe out. Five fingers, five calm breaths. (This one is great when you want something to do with your hands.)
+
+![Hand-tracing breathing: trace up each finger as you breathe in, down the other side as you breathe out](/img/toolkits/five-finger-breathing.svg)
 
 ### Balloon breathing
 

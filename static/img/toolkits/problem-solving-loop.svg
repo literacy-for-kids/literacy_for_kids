@@ -1,0 +1,67 @@
+<svg viewBox="0 0 760 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="psTitle">
+  <title id="psTitle">The problem-solving loop: eight questions arranged in a circle, from naming the problem to deciding what to change next</title>
+  <rect x="1" y="1" width="758" height="558" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- loop ellipse -->
+  <ellipse cx="380" cy="300" rx="250" ry="175" fill="none" stroke="#94a3b8" stroke-width="3" stroke-dasharray="9 8"/>
+
+  <!-- direction arrowheads (clockwise) -->
+  <g fill="#64748b">
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(611 367) rotate(121)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(476 462) rotate(164)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(284 462) rotate(196)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(149 367) rotate(239)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(149 233) rotate(301)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(284 138) rotate(-16)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(476 138) rotate(16)"/>
+    <path d="M0,-6 L13,0 L0,6 z" transform="translate(611 233) rotate(59)"/>
+  </g>
+
+  <!-- nodes -->
+  <g font-family="'Segoe UI', system-ui, sans-serif">
+    <g transform="translate(380 125)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="12" font-weight="700" fill="#475569">STEP 1</text>
+      <text y="14" text-anchor="middle" font-size="13" fill="#1e293b">What is the problem?</text>
+    </g>
+    <g transform="translate(557 176)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="12" font-weight="700" fill="#475569">STEP 2</text>
+      <text y="14" text-anchor="middle" font-size="13" fill="#1e293b">What do I know?</text>
+    </g>
+    <g transform="translate(630 300)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="12" font-weight="700" fill="#475569">STEP 3</text>
+      <text y="14" text-anchor="middle" font-size="13" fill="#1e293b">What am I guessing?</text>
+    </g>
+    <g transform="translate(557 424)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="12" font-weight="700" fill="#475569">STEP 4</text>
+      <text y="14" text-anchor="middle" font-size="13" fill="#1e293b">What information is missing?</text>
+    </g>
+    <g transform="translate(380 475)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="12" font-weight="700" fill="#475569">STEP 5</text>
+      <text y="14" text-anchor="middle" font-size="13" fill="#1e293b">What are my options?</text>
+    </g>
+    <g transform="translate(203 424)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="12" font-weight="700" fill="#475569">STEP 6</text>
+      <text y="14" text-anchor="middle" font-size="13" fill="#1e293b">What is one safe thing to try?</text>
+    </g>
+    <g transform="translate(130 300)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="12" font-weight="700" fill="#475569">STEP 7</text>
+      <text y="14" text-anchor="middle" font-size="13" fill="#1e293b">What happened?</text>
+    </g>
+    <g transform="translate(203 176)">
+      <rect x="-85" y="-27" width="170" height="54" rx="10" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+      <text y="-5" text-anchor="middle" font-size="12" font-weight="700" fill="#475569">STEP 8</text>
+      <text y="14" text-anchor="middle" font-size="13" fill="#1e293b">What should I change next?</text>
+    </g>
+  </g>
+
+  <!-- center -->
+  <text x="380" y="288" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">The Problem-Solving Loop</text>
+  <text x="380" y="314" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">define &#183; gather &#183; try &#183; observe &#183; adjust</text>
+</svg>

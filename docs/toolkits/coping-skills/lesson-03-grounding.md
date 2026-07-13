@@ -34,6 +34,8 @@ Look around and quietly notice:
 
 Keep the examples mild and everyday: a window, a pencil, the hum of the lights, the feel of your sleeve.
 
+![Grounding 5-4-3-2-1: five things you can see, four you can hear, three you can touch, two you can smell, one slow breath](/img/toolkits/grounding-54321.svg)
+
 ### Feet-on-floor reset
 
 Press both feet flat on the floor. Notice the floor pushing back. Say to yourself: *"The floor is holding me up. I am right here."*

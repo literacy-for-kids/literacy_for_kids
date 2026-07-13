@@ -29,6 +29,8 @@ When ideas are tangled like spaghetti, it is hard to see where any noodle goes. 
 > - Need to show relationships? Use a **concept map.**
 > - Need to show cause and effect? Use **arrows.**
 
+![The same class party shown six ways: a timeline, a table, a flowchart, a concept map, a parts diagram, and cause-and-effect arrows](/img/toolkits/info-shapes.svg)
+
 ## Activity: Pick the Organizer
 
 Choose the best organizer for each:

@@ -1,0 +1,56 @@
+<svg viewBox="0 0 640 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ffTitle">
+  <title id="ffTitle">Hand-tracing breathing: trace up each finger while breathing in, trace down while breathing out</title>
+  <defs>
+    <marker id="ffUp" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#0e7490"/>
+    </marker>
+    <marker id="ffDown" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="638" height="558" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="320" y="50" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="26" font-weight="700" fill="#1e293b">Hand-Tracing Breathing</text>
+  <text x="320" y="78" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" fill="#64748b">Five fingers, five calm breaths.</text>
+
+  <!-- hand silhouette -->
+  <g fill="#e2e8f0">
+    <rect x="248" y="310" width="205" height="140" rx="48"/>
+    <rect x="250" y="180" width="30" height="150" rx="15"/>
+    <rect x="306" y="155" width="30" height="175" rx="15"/>
+    <rect x="362" y="175" width="30" height="155" rx="15"/>
+    <rect x="418" y="215" width="30" height="115" rx="15"/>
+    <rect x="200" y="305" width="38" height="125" rx="19" transform="rotate(-35 219 367)"/>
+  </g>
+
+  <!-- start dot -->
+  <circle cx="172" cy="448" r="8" fill="#0e7490"/>
+  <text x="130" y="478" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="600" fill="#0e7490">Start here</text>
+
+  <!-- thumb -->
+  <line x1="152" y1="415" x2="180" y2="330" stroke="#0e7490" stroke-width="3" marker-end="url(#ffUp)"/>
+  <line x1="216" y1="322" x2="238" y2="395" stroke="#f59e0b" stroke-width="3" marker-end="url(#ffDown)"/>
+
+  <!-- index -->
+  <line x1="242" y1="325" x2="242" y2="200" stroke="#0e7490" stroke-width="3" marker-end="url(#ffUp)"/>
+  <line x1="290" y1="200" x2="290" y2="320" stroke="#f59e0b" stroke-width="3" marker-end="url(#ffDown)"/>
+
+  <!-- middle -->
+  <line x1="300" y1="320" x2="300" y2="175" stroke="#0e7490" stroke-width="3" marker-end="url(#ffUp)"/>
+  <line x1="346" y1="175" x2="346" y2="320" stroke="#f59e0b" stroke-width="3" marker-end="url(#ffDown)"/>
+
+  <!-- ring -->
+  <line x1="356" y1="320" x2="356" y2="195" stroke="#0e7490" stroke-width="3" marker-end="url(#ffUp)"/>
+  <line x1="402" y1="195" x2="402" y2="322" stroke="#f59e0b" stroke-width="3" marker-end="url(#ffDown)"/>
+
+  <!-- pinky -->
+  <line x1="412" y1="322" x2="412" y2="235" stroke="#0e7490" stroke-width="3" marker-end="url(#ffUp)"/>
+  <line x1="458" y1="235" x2="458" y2="330" stroke="#f59e0b" stroke-width="3" marker-end="url(#ffDown)"/>
+
+  <!-- legend -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="16">
+    <line x1="140" y1="518" x2="168" y2="518" stroke="#0e7490" stroke-width="4"/>
+    <text x="178" y="524" fill="#1e293b">Trace <tspan font-weight="700" fill="#0e7490">up</tspan> = breathe in</text>
+    <line x1="368" y1="518" x2="396" y2="518" stroke="#f59e0b" stroke-width="4"/>
+    <text x="406" y="524" fill="#1e293b">Trace <tspan font-weight="700" fill="#b45309">down</tspan> = breathe out</text>
+  </g>
+</svg>

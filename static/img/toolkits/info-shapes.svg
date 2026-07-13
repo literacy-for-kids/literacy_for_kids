@@ -1,0 +1,103 @@
+<svg viewBox="0 0 860 660" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="isTitle">
+  <title id="isTitle">The same class party shown six ways: a timeline for order, a table for comparison, a flowchart for steps, a concept map for relationships, a parts diagram, and cause-and-effect arrows</title>
+  <defs>
+    <marker id="isA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#475569"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="658" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="44" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#1e293b">Same party. Six shapes.</text>
+  <text x="430" y="70" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Pick the shape that matches the job the information is doing.</text>
+
+  <!-- Panel 1: timeline -->
+  <g transform="translate(30 95)">
+    <rect width="390" height="165" rx="10" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="14" y="28" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700" fill="#475569">TIMELINE <tspan font-weight="400" fill="#94a3b8">&#8212; shows order</tspan></text>
+    <line x1="35" y1="95" x2="355" y2="95" stroke="#475569" stroke-width="3" marker-end="url(#isA)"/>
+    <g fill="#475569">
+      <circle cx="55" cy="95" r="7"/><circle cx="145" cy="95" r="7"/><circle cx="235" cy="95" r="7"/><circle cx="320" cy="95" r="7"/>
+    </g>
+    <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#1e293b" text-anchor="middle">
+      <text x="55" y="128">plan</text><text x="145" y="128">invite</text><text x="235" y="128">set up</text><text x="320" y="128">party!</text>
+    </g>
+  </g>
+
+  <!-- Panel 2: table -->
+  <g transform="translate(440 95)">
+    <rect width="390" height="165" rx="10" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="14" y="28" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700" fill="#475569">TABLE <tspan font-weight="400" fill="#94a3b8">&#8212; compares</tspan></text>
+    <g stroke="#cbd5e1" stroke-width="1.5">
+      <rect x="45" y="45" width="300" height="96" fill="#ffffff" rx="6"/>
+      <line x1="45" y1="77" x2="345" y2="77"/><line x1="45" y1="109" x2="345" y2="109"/>
+      <line x1="145" y1="45" x2="145" y2="141"/><line x1="245" y1="45" x2="245" y2="141"/>
+    </g>
+    <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#1e293b" text-anchor="middle">
+      <text x="195" y="66" font-weight="700">pizza</text><text x="295" y="66" font-weight="700">sandwiches</text>
+      <text x="95" y="98" font-weight="700">cost</text><text x="195" y="98">$$$</text><text x="295" y="98">$</text>
+      <text x="95" y="130" font-weight="700">speed</text><text x="195" y="130">slow</text><text x="295" y="130">fast</text>
+    </g>
+  </g>
+
+  <!-- Panel 3: flowchart -->
+  <g transform="translate(30 275)">
+    <rect width="390" height="165" rx="10" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="14" y="28" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700" fill="#475569">FLOWCHART <tspan font-weight="400" fill="#94a3b8">&#8212; shows steps and choices</tspan></text>
+    <polygon points="120,60 185,95 120,130 55,95" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+    <text x="120" y="100" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#1e293b">raining?</text>
+    <line x1="185" y1="95" x2="245" y2="70" stroke="#475569" stroke-width="2.5" marker-end="url(#isA)"/>
+    <line x1="185" y1="95" x2="245" y2="122" stroke="#475569" stroke-width="2.5" marker-end="url(#isA)"/>
+    <text x="207" y="70" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#64748b">yes</text>
+    <text x="207" y="130" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" fill="#64748b">no</text>
+    <rect x="250" y="48" width="120" height="34" rx="8" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+    <text x="310" y="70" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#1e293b">inside games</text>
+    <rect x="250" y="105" width="120" height="34" rx="8" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+    <text x="310" y="127" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#1e293b">backyard</text>
+  </g>
+
+  <!-- Panel 4: concept map -->
+  <g transform="translate(440 275)">
+    <rect width="390" height="165" rx="10" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="14" y="28" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700" fill="#475569">CONCEPT MAP <tspan font-weight="400" fill="#94a3b8">&#8212; shows relationships</tspan></text>
+    <g stroke="#94a3b8" stroke-width="2">
+      <line x1="195" y1="100" x2="95" y2="70"/><line x1="195" y1="100" x2="115" y2="135"/>
+      <line x1="195" y1="100" x2="295" y2="68"/><line x1="195" y1="100" x2="285" y2="137"/>
+    </g>
+    <ellipse cx="195" cy="100" rx="48" ry="24" fill="#475569"/>
+    <text x="195" y="105" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700" fill="#ffffff">party</text>
+    <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#1e293b" text-anchor="middle">
+      <g><ellipse cx="80" cy="66" rx="42" ry="18" fill="#ffffff" stroke="#94a3b8" stroke-width="1.5"/><text x="80" y="71">friends</text></g>
+      <g><ellipse cx="100" cy="138" rx="42" ry="18" fill="#ffffff" stroke="#94a3b8" stroke-width="1.5"/><text x="100" y="143">food</text></g>
+      <g><ellipse cx="310" cy="64" rx="42" ry="18" fill="#ffffff" stroke="#94a3b8" stroke-width="1.5"/><text x="310" y="69">music</text></g>
+      <g><ellipse cx="300" cy="140" rx="42" ry="18" fill="#ffffff" stroke="#94a3b8" stroke-width="1.5"/><text x="300" y="145">games</text></g>
+    </g>
+  </g>
+
+  <!-- Panel 5: parts diagram -->
+  <g transform="translate(30 455)">
+    <rect width="390" height="165" rx="10" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="14" y="28" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700" fill="#475569">DIAGRAM <tspan font-weight="400" fill="#94a3b8">&#8212; shows parts</tspan></text>
+    <!-- cupcake -->
+    <circle cx="150" cy="80" r="9" fill="#ef4444"/>
+    <path d="M110,105 Q115,72 150,72 Q185,72 190,105 Z" fill="#f9a8d4"/>
+    <polygon points="112,108 188,108 176,148 124,148" fill="#fbbf24"/>
+    <g stroke="#64748b" stroke-width="1.5">
+      <line x1="162" y1="76" x2="248" y2="62"/><line x1="192" y1="92" x2="248" y2="92"/><line x1="182" y1="130" x2="248" y2="126"/>
+    </g>
+    <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#1e293b">
+      <text x="254" y="66">cherry</text><text x="254" y="96">frosting</text><text x="254" y="130">wrapper</text>
+    </g>
+  </g>
+
+  <!-- Panel 6: cause and effect -->
+  <g transform="translate(440 455)">
+    <rect width="390" height="165" rx="10" fill="#f8fafc" stroke="#e2e8f0"/>
+    <text x="14" y="28" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700" fill="#475569">ARROWS <tspan font-weight="400" fill="#94a3b8">&#8212; show cause and effect</tspan></text>
+    <rect x="30" y="70" width="140" height="52" rx="8" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+    <text x="100" y="92" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#1e293b">invitations</text>
+    <text x="100" y="110" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#1e293b">went out late</text>
+    <line x1="178" y1="96" x2="228" y2="96" stroke="#475569" stroke-width="3" marker-end="url(#isA)"/>
+    <rect x="235" y="70" width="130" height="52" rx="8" fill="#ffffff" stroke="#475569" stroke-width="2"/>
+    <text x="300" y="92" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#1e293b">fewer friends</text>
+    <text x="300" y="110" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#1e293b">could come</text>
+  </g>
+</svg>
