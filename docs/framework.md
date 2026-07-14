@@ -8,6 +8,8 @@ sidebar_label: The Literacies Framework
 
 The Literacy for Kids framework provides children with a practical mental model for understanding modern society. Instead of focusing on one subject alone, it introduces nine connected ways of understanding daily life.
 
+![The Literacy for Kids ecosystem: nine domain literacies supported by seven shared toolkits](/img/ecosystem-map.svg)
+
 ## A conceptual progression
 
 ### 1. Decision Literacy — reasoning and thinking
