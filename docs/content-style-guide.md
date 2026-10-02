@@ -41,7 +41,7 @@ Lessons are written *to* the adult facilitator, but designed so kids can follow 
 
 ## Lesson Length and Format
 
-Each lesson should take **10–20 minutes** to facilitate.
+Provide a **10–20 minute entry activity** where practical, and state the actual time for the full session or weekly module. Weekly pages may contain two guided sessions plus independent practice. Label substitutions, optional extensions, materials, tool/account requirements, and preparation clearly; do not promise that a complete module takes 20 minutes or needs no preparation.
 
 ### Standard lesson structure:
 1. **Opening question or hook** — A prompt or scenario to engage attention
@@ -153,3 +153,14 @@ Some curricula include required disclaimers:
 - **Emotional & Social Literacy**: Includes a facilitator safety guide; content is educational, not therapy
 
 If you are editing one of these curricula, do not remove existing disclaimers.
+
+## Optional Depth and Worked-Example Standard
+
+Label two types of enrichment explicitly:
+
+- **Supplied practice:** include a complete fictional scenario or data, a task, an illustrative response with reasoning, a learning check, materials, time for that activity, and relevant prior learning. State model limits and label invented numbers.
+- **Open research prompt:** identify outside materials the adult must select and verify, access/tool requirements, and additional preparation. Do not describe a suggestion to find a source or build a packet as already supplied instruction. Provide a supplied alternative where feasible.
+
+Choose enrichment by readiness and interest rather than age alone. State that depth is optional, does not add a required core week, and does not raise the checkpoint threshold. A 20-minute worked case is not the timing for every session in its full module.
+
+Sample responses show evidence and reasoning, not the only words a learner may use. Keep lesson, overview, map, vocabulary, assessment, and facilitator guidance aligned. Use fictional and accessible response options; preserve valid boundaries and rights without requiring private disclosure or successful self-protection.

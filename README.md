@@ -38,7 +38,7 @@ You do not need to use everything. One lesson, one discussion, or one printable 
 
 ## The Nine Curricula
 
-Each curriculum is an 18-week program maintained as its own site and repository. Every lesson works standalone as a 10–20 minute discussion or activity.
+Each curriculum is an 18-week program maintained as its own site and repository. Selected discussions or activities can fit 10–20 minutes; complete weekly modules commonly include two guided sessions plus independent practice. Media guided sessions are about 30 minutes, and Computer guided sessions can be 30–40 minutes. Read the week’s preparation notes for materials, tools, and prior skills. See [pacing and preparation](https://www.literacy-for-kids.com/docs/using-the-curricula/).
 
 | | Curriculum | What it helps kids understand | Website | Repo |
 |---|---|---|---|---|

@@ -32,9 +32,9 @@ Literacy for Kids is a collection of open-source curricula for children ages 8�
 
 Each curriculum is:
 
-- **Independent**: no prerequisites, no required sequence
+- **Independent curricula**: no required order across subjects; within a subject, check prior skills before selecting a later activity
 - **Discussion-based**: built around conversation and reflection, not memorization or tests
-- **Short lessons**: 10–20 minutes per session, adaptable to home, classroom, club, or library
+- **Flexible pieces**: selected discussions or activities can fit 10–20 minutes; full weekly modules take several sessions. See [pacing and preparation](./using-the-curricula.md#pacing-and-preparation)
 - **Age-appropriate**: written for roughly ages 8–12 (grades 3–6)
 - **No expertise required from adults**: lessons provide the context facilitators need
 
@@ -42,7 +42,7 @@ Each curriculum is:
 
 ## The Open-Source Model
 
-Every curriculum is free, openly licensed, and hosted on GitHub. There is no login, paywall, or student-data collection. The materials can be:
+Every curriculum is free, openly licensed, and hosted on GitHub. Reading the curriculum sites requires no login or payment. Some linked activity tools may require accounts or process data; choose approved tools or the offline alternative. The materials can be:
 
 - Used as-is directly on the web
 - Downloaded and adapted for local needs

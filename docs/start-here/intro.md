@@ -9,7 +9,7 @@ slug: /start-here
 
 Literacy for Kids is a collection of practical, no-prep lessons that help kids ages 8–12 understand the systems they live inside — computers, money, decisions, media, civic life, law, relationships, health, and the environment — and practice the shared skills that help them use that understanding.
 
-Everything is free, open-source, discussion-based, and designed to work in 10–20 minute pieces.
+The curricula are free and open-source. You can choose a discussion or activity for a 10–20 minute session; complete weekly modules usually take several sessions. Check the selected week’s preparation notes and [pacing guide](../using-the-curricula.md#pacing-and-preparation).
 
 ## The two layers
 

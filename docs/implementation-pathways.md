@@ -13,28 +13,30 @@ This page helps parents, teachers, facilitators, and program coordinators figure
 ## A Few Things That Apply to Every Pathway
 
 - **No prior expertise needed.** Each lesson provides the context you need to facilitate it.
-- **No accounts, no login, no tech required beyond a browser.** Lessons can be read aloud and run entirely offline.
+- **No account is needed to read the curriculum.** Activity tools and materials vary. Check the selected week, use an approved tool, or choose its offline/paper adaptation.
 - **Pick any curriculum first.** There is no required sequence. Start with whatever topic your learners are most curious about.
-- **One lesson at a time is enough.** Each lesson stands on its own. You do not need to run a full week every week.
-- **Oral discussion is the goal.** Students do not need to write anything down unless they want to.
+- **One selected activity is enough for a useful session.** Check prior skills before using a later activity. A complete weekly module may take multiple sessions.
+- **Choose an accessible way to show learning.** Conversation can introduce an idea; practical skills also need practice or an equivalent paper artifact.
 
 ---
+
+The short-session pathways below are adaptations for selected pieces. For a full sequence, use the week’s own timings and practice requirements. See [pacing and preparation](./using-the-curricula.md#pacing-and-preparation).
 
 ## Parents and Caregivers Using Lessons at Home
 
 **Best for:** One child or siblings together, ages 8–12
 
-**Recommended cadence:** One lesson per week, 10–20 minutes
+**Recommended cadence:** One selected discussion or activity per week, 10–20 minutes; several sessions for a complete weekly module
 
 **Suggested starting curriculum:** Whatever topic your child is currently curious about — or Financial Literacy and Decision Literacy, which work well at home around real-life moments.
 
 **How it works:**
-1. Pick a curriculum and read the first lesson yourself before the session (takes about 5 minutes)
+1. Pick a curriculum and read the first lesson yourself before the session (allow enough time to read its instructions and check materials)
 2. Sit down together and use the lesson's discussion questions to guide a conversation
 3. Use one scenario card or exit ticket prompt if you want a concrete close
-4. There is no homework and no test
+4. For a single discussion, no homework or formal test is needed. A full module includes its stated practice and learning checks
 
-**Prep time:** 5 minutes to read the lesson in advance
+**Prep time:** Read the selected section and check materials; software, media, packets, or experiments need additional setup
 
 **Materials:** A device to view the lesson or a printed copy; optional pencil and paper for the student
 
@@ -53,13 +55,13 @@ This page helps parents, teachers, facilitators, and program coordinators figure
 **Suggested starting curriculum:** Decision Literacy for a strong first-year anchor; add a second curriculum in term two
 
 **How it works:**
-1. Use the curriculum map to plan a term (18 weeks = one full curriculum per term)
+1. Use the curriculum map to plan a term (18 weekly modules can fit a term if you schedule their guided sessions and practice)
 2. Run each lesson as a discussion, not a lecture
 3. Use the scenario cards as warm-ups or extended activities
 4. Keep an optional learning log or portfolio — no required format
 5. Use the skills-alignment documents to map to your state's requirements if needed
 
-**Prep time:** 5–10 minutes per lesson
+**Prep time:** Check the week’s preparation notes; gather materials and test any tools before the session
 
 **Materials:** Printed lessons or device; student journal (optional); scenario card printouts (optional)
 
@@ -84,13 +86,13 @@ This page helps parents, teachers, facilitators, and program coordinators figure
 4. Let students reflect in journals or discussion rather than formal written assessments
 5. Use the skills-alignment document to map to your standards when needed
 
-**Prep time:** 5–10 minutes per lesson for the teacher; no student prep required
+**Prep time:** Check the week’s preparation notes; gather materials and test any tools before the session; check the selected activity for any learner preparation
 
 **Materials:** Projected lesson text or printed copies; dry-erase board for key vocabulary; optional student journals
 
 **Measuring progress:** Use the exit-ticket bank informally at the end of each session. Participation in discussion is the primary evidence of learning. Written reflections are optional.
 
-**Combining multiple literacies:** Run one curriculum per term. Over a school year, two or three curricula can be completed, each reinforcing the others.
+**Combining multiple literacies:** Run one curriculum per term. Completing a curriculum requires time for each module’s guided sessions and practice; short weekly discussions may cover a sampler instead.
 
 ---
 
@@ -108,7 +110,7 @@ This page helps parents, teachers, facilitators, and program coordinators figure
 3. End each session with one exit-ticket prompt — spoken, not written
 4. Rotate curricula across semesters to maintain variety
 
-**Prep time:** 5 minutes per session
+**Prep time:** Varies by selected activity; read the preparation notes and test materials/tools
 
 **Materials:** Projected or printed lesson; printed scenario cards (optional)
 
@@ -125,12 +127,12 @@ This page helps parents, teachers, facilitators, and program coordinators figure
 **Suggested starting curriculum:** Media Literacy (highly relevant, works well in library context), Financial Literacy, or Computer Literacy
 
 **How it works:**
-1. Select a standalone lesson — each lesson works independently of the others
+1. Select an activity that fits the group and check its prior skills
 2. Use the discussion questions as the core activity
 3. Scenario cards work well for small-table discussion in library settings
-4. No registration, login, or data collection required for participants
+4. No registration or login is needed to read the curriculum; check external tool requirements and choose a paper route when appropriate
 
-**Prep time:** 5 minutes
+**Prep time:** Varies by selected activity; check cards, tools, materials, and access needs
 
 **Materials:** Printed or projected lesson; scenario cards if available
 
@@ -142,7 +144,7 @@ This page helps parents, teachers, facilitators, and program coordinators figure
 
 **Best for:** Summer camps, intensives, enrichment programs
 
-**Recommended cadence:** One lesson per day (5 days = one week of content); a full curriculum in 18 days
+**Recommended cadence:** One selected activity per day for a sampler. Completing 18 weekly modules in 18 days requires scheduling each day’s full guided sessions and independent practice, not only a 20-minute discussion
 
 **Suggested starting curriculum:** Decision Literacy or Financial Literacy for most summer contexts; Environmental Systems Literacy for nature/science camps
 
@@ -152,7 +154,7 @@ This page helps parents, teachers, facilitators, and program coordinators figure
 3. End each day with an exit-ticket prompt
 4. Optional capstone: have students present their own scenario or reflection at the end of the program
 
-**Prep time:** 5 minutes per lesson
+**Prep time:** Read the selected week’s preparation notes and allow for materials and setup
 
 ---
 

@@ -25,7 +25,7 @@ const rolePathways = [
     icon: '🏠',
     title: 'Parents & Caregivers',
     description:
-      'Start with a topic your child is already curious about. Each curriculum has short lessons (10–20 min) you can use one-on-one at home — no prep needed.',
+      'Start with a topic your child is already curious about. Choose a 10–20 minute conversation or activity for home. Read the selected section and check its materials first; a full weekly module takes longer.',
     href: '/docs/start-here/parents',
     linkText: 'Parent start guide →',
   },
@@ -41,7 +41,7 @@ const rolePathways = [
     icon: '📚',
     title: 'Clubs, Homeschool & Libraries',
     description:
-      'Modular and flexible — use any topic, any lesson, in any order. Great for enrichment programs, co-ops, and reading groups.',
+      'Modular and flexible — choose a topic or activity, and check its prior skills and preparation notes. Great for enrichment programs, co-ops, and reading groups.',
     href: '/docs/start-here/facilitators',
     linkText: 'Facilitator start guide →',
   },
@@ -146,7 +146,7 @@ const usageExamples = [
     icon: '🏠',
     title: 'A parent at home',
     description:
-      'Pick a topic your child is curious about — like how ads work or what happens to saved money. Use one lesson per week at the dinner table or before bed. Each takes 15–20 minutes and needs nothing beyond the lesson page. Start a conversation, not a lecture.',
+      'Pick a topic your child is curious about — like how ads work or what happens to saved money. Use one selected discussion or activity in a 15–20 minute home session. Check the preparation notes for materials and setup. Complete weekly modules may need several sessions.',
   },
   {
     icon: '🏫',
@@ -165,7 +165,7 @@ const usageExamples = [
 const designPrinciples = [
   {
     title: 'Short, modular lessons',
-    text: 'Each lesson takes 10–20 minutes and works independently. Use one lesson, a handful, or a full sequence — pick what fits your time.',
+    text: 'Use a selected activity in 10–20 minutes, or follow a full weekly module across several sessions. Check each week for timing, prior skills, materials, and setup.',
   },
   {
     title: 'Discussion over memorization',

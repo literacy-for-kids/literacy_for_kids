@@ -52,13 +52,13 @@ If the need is a skill rather than a topic:
 
 ## A 15-minute home version
 
-1. Pick one lesson or printable.
+1. Pick one discussion, short activity, or printable; check its materials first.
 2. Read the big idea together.
 3. Use a fictional example first.
 4. Ask one discussion question.
 5. Choose one tiny "try it this week" move.
 
-That is a complete use of the project. You are done.
+That is a useful single use of the project. It does not complete a full weekly module; you can return for its guided practice and independent work later.
 
 ## Use fictional examples first
 

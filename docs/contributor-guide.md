@@ -157,3 +157,9 @@ See the [Accessibility Notes](./accessibility-notes.md) doc for known issues and
 ## Getting Help
 
 Open an issue or start a discussion in any repo. Maintainers are responsive to questions.
+
+## Review Instructional Completeness and Consistency
+
+Before proposing curriculum content, check that a facilitator can distinguish supplied teaching material from an open research suggestion. For a supplied activity, include the scenario/data, task, worked response and reasoning, learning check, materials, time, and prior skills. Label fictional values and model limits.
+
+Check the lesson against its map, overview, glossary, checkpoint, and facilitator guidance. Identify which vocabulary is core and which is optional depth; optional research or an extra module must not become an untaught core assessment requirement. Verify any arithmetic, probability assumptions, references, internal routes, and linked fragments. Build and validate the affected site, then inspect repository CI as well as local results. A valid source that blocks automated access needs a documented, narrowly scoped checker exception, not acceptance of every 403 response.

@@ -6,7 +6,7 @@ sidebar_label: Adoption Checklist
 
 # Curriculum Adoption Checklist
 
-Use this checklist to plan your first use of Literacy for Kids. It takes about 10 minutes to fill in, and then you are ready to start.
+Use this checklist to plan your first use of Literacy for Kids. Use it to choose a short activity or a complete weekly module, then allow time for the selected activity’s preparation.
 
 ---
 
@@ -29,10 +29,10 @@ Mark where you will be using the curriculum.
 
 How often will you run a lesson?
 
-- [ ] Once a week (most common — 18 weeks = one full curriculum)
-- [ ] Twice a week (9 weeks per curriculum)
-- [ ] Short daily discussions (18 school days = about 3–4 weeks)
-- [ ] Summer or intensive format (daily, finish in 3–4 weeks)
+- [ ] One full weekly module per week (18 modules across 18 weeks; allow its guided sessions and practice)
+- [ ] Two full modules per week (9 weeks only if you schedule all their sessions and practice)
+- [ ] Short daily discussions (a sampler of activities, not automatically a complete curriculum)
+- [ ] Summer or intensive format (plan the full module’s teaching and practice before estimating completion)
 - [ ] Self-paced, as interest allows
 
 ---
@@ -61,18 +61,18 @@ Pick the one that fits your learners best right now. Any curriculum is a good st
 
 Read the facilitator guide for your chosen curriculum. Then check these off before your first lesson.
 
-- [ ] Read the facilitator guide (takes about 10 minutes)
-- [ ] Read Lesson 1 (takes about 5 minutes — you'll know more than enough to facilitate it)
-- [ ] Decide how long your session will be (aim for 15–20 minutes)
+- [ ] Read the facilitator guide and its safety/access notes
+- [ ] Read the selected section, including instructions and facilitator answers
+- [ ] Choose a 15–20 minute activity or schedule the full module’s stated session times
 - [ ] Decide whether students will discuss out loud, write privately, or both
 - [ ] Have the lesson open on a screen or printed out
-- [ ] Optional: Print one scenario card to use as a warm-up or extension
+- [ ] Gather the listed materials; prepare any cards, practice files, approved apps, or media; test the activity setup
 
 ---
 
 ## Step 5: Run Your First Lesson
 
-A typical 15–20 minute lesson looks like this.
+A selected 15–20 minute discussion can look like this. It is not a completion plan for every section of a weekly module.
 
 - [ ] Start with the warm-up question at the top of the lesson
 - [ ] Read or summarize the main concept in 3–5 minutes (short explanation, not a lecture)
@@ -94,7 +94,7 @@ A typical 15–20 minute lesson looks like this.
 
 ## Repeat
 
-Once the session rhythm is established, you don't need this checklist. Each lesson takes about 5 minutes to prepare and 15–20 minutes to run.
+Once the session rhythm is established, you don't need this checklist. Continue checking each week’s materials, tools, timing, and prior skills. Preparation and full-module timing vary; see [pacing and preparation](./using-the-curricula.md#pacing-and-preparation).
 
 ---
 

@@ -7,7 +7,9 @@ slug: /start-here/use-one-lesson
 
 # Use One Lesson
 
-You do not need to start at Week 1. You can use any single lesson as a conversation, an activity, or a mini-toolkit — and stop there.
+You do not need to start at Week 1. Choose a discussion, an activity, or a mini-toolkit, check its prior skills and materials, and stop after that piece. The time plans below are adaptations of a selected piece, not promises to complete every section of a weekly page.
+
+Before the session, read the chosen section, gather its materials, and test any tool or file you plan to use. For full weekly modules, see [pacing and preparation](../using-the-curricula.md#pacing-and-preparation).
 
 ## The 20-minute version
 

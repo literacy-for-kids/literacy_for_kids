@@ -35,10 +35,12 @@ No special training is required. Every lesson is written to be facilitated by a 
 | Time available | What to do |
 |---|---|
 | 10 minutes | Use one printable card and one fictional example |
-| 20 minutes | Run one lesson lightly |
-| 30 minutes | Lesson + activity + discussion |
-| 45 minutes | Lesson + activity + reflection or share-out |
-| Multiple sessions | Follow a curriculum sequence or toolkit sequence |
+| 20 minutes | Use one selected activity and discussion |
+| 30 minutes | A guided session where its preparation notes allow |
+| 45 minutes | A selected guided activity with reflection or share-out |
+| Multiple sessions | Complete the weekly module or a curriculum/toolkit sequence |
+
+These are choices for a session, not completion times for every weekly page. Read the week’s setup and prior-skill notes; gather materials and test tools first. See [pacing and preparation](../using-the-curricula.md#pacing-and-preparation).
 
 ## Facilitation norms
 

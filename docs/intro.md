@@ -37,7 +37,7 @@ The curricula can be:
 - taught sequentially
 - integrated into classroom, homeschool, or after-school programs
 
-Each lesson typically takes 10–20 minutes and emphasizes discussion, exploration, and critical thinking rather than lectures.
+A selected discussion or activity can take 10–20 minutes. A complete weekly module usually includes several sessions and may need tools, printed materials, or advance setup. See [pacing and preparation](./using-the-curricula.md#pacing-and-preparation) before planning a full sequence. The emphasis is discussion, exploration, and critical thinking.
 
 ## What this site does
 
