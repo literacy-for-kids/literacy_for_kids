@@ -30,6 +30,8 @@ jobs:
           cache: npm
       - run: npm ci --legacy-peer-deps
       - run: npm run build
+      - name: Validate repository source links locally
+        run: node scripts/validate-source-links.mjs "$GITHUB_REPOSITORY" build docs
       - name: Mirror build for lychee
         run: |
           rm -rf ./.lychee-root
@@ -43,6 +45,7 @@ jobs:
             --timeout 30
             --max-retries 3
             --retry-wait-time 5
+            --exclude '^https://github\.com/literacy-for-kids/literacy_for_kids/tree/main/docs/'
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
             --exclude 'literacy-for-kids\.com'
