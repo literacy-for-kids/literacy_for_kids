@@ -55,7 +55,7 @@ Read the relevant style guides:
 - **Define jargon** when introduced
 - **Avoid fear, shame, or manipulation** as motivational devices
 - **Do not collect student data** or add tracking
-- Keep lessons **10–20 minutes** and low-prep
+- Offer a **10–20 minute entry discussion or activity** where practical. State the actual timing, prerequisites, materials, and preparation for full sessions and weekly modules; label optional extensions separately.
 - Stay **politically neutral** on contested topics — explain how systems work, not what to believe
 - Do not add **advertising, affiliate links, or commercial content**
 

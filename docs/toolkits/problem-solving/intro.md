@@ -91,7 +91,7 @@ A shorter kid-facing version works well for quick callouts and younger learners:
 
 ## Who it is for
 
-These lessons are written for children ages 8–12 and designed to be used by parents, teachers, homeschoolers, clubs, libraries, and small groups. No special training is required. Each lesson is short, no-prep, and built around conversation rather than lecture.
+These lessons are written for children ages 8–12 and designed to be used by parents, teachers, homeschoolers, clubs, libraries, and small groups. No special training is required. Each lesson is short and built around conversation rather than lecture. Read the chosen activity first, check its safety and participation options, and gather any cards, paper, or other listed materials. Many discussions need little setup; printing and hands-on activities need preparation.
 
 ## A note on safety and scope
 

@@ -7,9 +7,9 @@ slug: /start-here
 
 # Start Here
 
-Literacy for Kids is a collection of practical, no-prep lessons that help kids ages 8–12 understand the systems they live inside — computers, money, decisions, media, civic life, law, relationships, health, and the environment — and practice the shared skills that help them use that understanding.
+Literacy for Kids is a collection of practical lessons that help kids ages 8–12 understand the systems they live inside — computers, money, decisions, media, civic life, law, relationships, health, and the environment — and practice the shared skills that help them use that understanding.
 
-The curricula are free and open-source. You can choose a discussion or activity for a 10–20 minute session; complete weekly modules usually take several sessions. Check the selected week’s preparation notes and [pacing guide](../using-the-curricula.md#pacing-and-preparation).
+The curricula are free and open-source. You can choose a discussion or activity for a 10–20 minute session; complete weekly modules usually take several sessions. Before choosing a week out of sequence, check its prior concepts and introduce any needed background. Read the selected week’s preparation notes for materials and setup, and see the [pacing guide](../using-the-curricula.md#pacing-and-preparation).
 
 ## The two layers
 
@@ -22,7 +22,7 @@ The project has two layers that work together:
 
 ## You do not need to use everything
 
-This project is modular. A parent can use one conversation. A teacher can use one 20-minute lesson. A club leader can use one printable card. A homeschooler can follow a full sequence.
+This project is modular. A parent can use one conversation. A teacher can use one selected 20-minute activity. A club leader can use one printable card. A homeschooler can follow a full sequence.
 
 Start with the smallest useful piece.
 
