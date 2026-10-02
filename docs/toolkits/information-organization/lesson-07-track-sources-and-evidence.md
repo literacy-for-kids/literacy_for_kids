@@ -31,7 +31,33 @@ A source tracker leaves breadcrumbs back to where information came from. Without
 
 ## Activity: Keep the Claim Connected
 
-Give kids fictional claims and sources. Have them match each claim with its source, evidence, and an open question. Then show one claim that *lost* its source — discuss why that matters and what future-you can no longer do with it.
+Read or copy the supplied fictional cards. Match each claim to a source and evidence card, then add an open question. All cards are below; no searching or personal information is needed.
+
+### Claim cards
+
+| ID | Claim |
+|---|---|
+| C1 | Six kit checkouts were recorded on Tuesday. |
+| C2 | The north shelf was scheduled to close Tuesday, 10 a.m.–noon. |
+| C3 | Using the kit makes everyone better at science. |
+
+### Source cards
+
+| ID | Source and contents |
+|---|---|
+| S1 | Fictional kit checkout log, Tuesday October 6: entries T1, T2, T3, T4, T5, T6. Each entry records one checkout; no borrower names or test results are included. |
+| S2 | Fictional maintenance notice, issued October 5: "North shelf closed Tuesday October 6, 10 a.m.–noon, for repair. Other shelves follow the usual schedule." |
+| S3 | Fictional club blog, October 7: "Tuesday had six kit checkouts, according to log S1." No separate count was made. |
+
+### Evidence cards
+
+| ID | Evidence or evidence gap |
+|---|---|
+| E1 | Counting the six entries in S1 gives six recorded checkouts. |
+| E2 | S2 states the shelf, date, and two-hour scheduled closure. |
+| E3 | Someone remembers hearing C3, but the source, comparison, and measurements are missing. |
+
+**Facilitator answer notes:** C1 → S1 → E1; ask whether all checkouts were recorded. Six checkouts does not necessarily mean six different people. S3 repeats S1 and is not an independent count; it can help locate S1. C2 → S2 → E2; ask whether a later notice changed the plan. A schedule does not prove the repair happened or that the whole building closed. C3 has no supplied supporting source; E3 is a gap, not support. Ask who made the claim and how "better" was measured. Label it unverified; losing a source does not prove a claim false. Accept other open questions that identify a real limit.
 
 ## Discussion questions
 

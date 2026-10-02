@@ -8,6 +8,16 @@ sidebar_label: Printable Cards
 
 Simple cards you can copy, print, or rewrite by hand. Keep them nearby — a step you can actually find in the moment beats a beautiful chart you can't. Cut them out, tape them inside a notebook, or keep them where the sorting happens.
 
+## Ready-to-use activity sets
+
+Print the linked lesson pages for complete fictional materials and facilitator notes:
+
+- [Lesson 1: twelve mixed sorting cards and alternative groupings](./lesson-01-sort-before-you-solve.md#activity-sort-the-pile).
+- [Lesson 5: source paragraph, two notes, and comparison guidance](./lesson-05-notes-are-tools-not-transcripts.md#activity-transcript-or-tool).
+- [Lesson 7: claim, source, and evidence cards with matching guidance](./lesson-07-track-sources-and-evidence.md#activity-keep-the-claim-connected).
+
+Paper and a pencil are enough. The blank reminder cards below support these activities; the lesson pages supply the content to work with.
+
 :::caution Everyday organization skills, not a replacement for support
 These cards teach everyday information organization skills. They are not therapy, disability evaluation, academic intervention, legal advice, medical advice, or a replacement for trusted adults, educators, caregivers, accommodations, or qualified support. Kids should not be treated as lazy or broken when information feels messy or hard to organize. If information feels consistently inaccessible, unsafe, private, sensitive, or overwhelming, asking a trusted adult for support is part of the system.
 :::

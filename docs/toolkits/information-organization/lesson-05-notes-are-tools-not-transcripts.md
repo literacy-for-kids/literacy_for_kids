@@ -31,12 +31,31 @@ A note is not a photograph of a lesson. It is a tool you take with you. A hammer
 
 ## Activity: Transcript or Tool?
 
-Compare two fictional notes on the same topic:
+Use this supplied fictional paragraph and both notes. Read aloud or print this page; no outside source is needed.
 
-1. A copied paragraph with every word from the source.
-2. A short note with the big idea, one example, one question, and the source.
+**Source P1 — Paper-bridge club log, October 6:**
 
-Ask: which one helps future-you more, and why? What could be added to the transcript to make it a tool?
+> Our club placed two paper bridges across the same gap. Bridge A used a flat strip and held 6 identical coins before falling. Bridge B used a folded strip of the same paper and held 9 coins before falling. We tried each bridge once, adding coins one at a time. In this trial, the folded bridge held more coins. We do not yet know whether another trial would give the same result.
+
+**Note A — exact copied paragraph, source P1:**
+
+> Our club placed two paper bridges across the same gap. Bridge A used a flat strip and held 6 identical coins before falling. Bridge B used a folded strip of the same paper and held 9 coins before falling. We tried each bridge once, adding coins one at a time. In this trial, the folded bridge held more coins. We do not yet know whether another trial would give the same result.
+
+**Note B — short tool, source P1:**
+
+> **Big idea:** In one club trial, the folded paper bridge held more coins than the flat bridge.
+>
+> **Keywords:** flat, folded, one trial.
+>
+> **Example:** A: 6 coins; B: 9 coins; same paper, gap, and coin type.
+>
+> **Question:** Would repeated trials give similar results?
+>
+> **Find it again:** P1, Paper-bridge club log, October 6, above.
+
+Ask: "Which note helps you quickly find the coin counts? Which preserves the exact wording? What could you add to Note A to find an idea quickly?" Make a third note, such as a labeled two-row table, that preserves the result, trial limit, and source.
+
+**Facilitator notes:** Both notes match P1. Note B is easier to scan for this task; Note A is useful when exact wording is needed. A heading, highlighted counts, or a question can improve A. A drawing or table can also work. Do not infer that folded bridges are always stronger from one trial, or grade the shortest note as automatically best. Check whether the note fits its purpose and can be traced to P1.
 
 ## Discussion questions
 
